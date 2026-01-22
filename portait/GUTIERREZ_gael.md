@@ -1,8 +1,8 @@
 # Gaël Gutierrez
 
-![photo](photo_SF/K_NNEBE_Afflux_20231201_SF.jpg)
+![photo](photo_GG/Poster.JPG)
 
->DESCRIPTION DE L'IMAGE
+>Une photo de moi à plan large qui a été réalisé pendant la session d'automne 2025. 
 
 
 ## **Intérêts dans le multimedia**
