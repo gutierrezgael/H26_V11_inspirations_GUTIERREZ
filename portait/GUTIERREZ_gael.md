@@ -12,3 +12,4 @@ Un artiste qui m'inspire grandement est Toby Fox, un musicien et un développeur
 Son jeu Undertale, sorti en 2015, a connu un succès massif.
 
 https://fr.wikipedia.org/wiki/Undertale
+![photo](photo_GG/langfr-2560px-Undertale_vector_logo_on_black_borders.svg.png)
