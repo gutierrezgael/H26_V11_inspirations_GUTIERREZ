@@ -7,3 +7,6 @@
 <img src=photo/entree-exposition.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
 
 >Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite. (Photo: Yoan Visinand)
+
+## Type d'exposition: Temporaire et intérieure.
+<img src=photo/.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
