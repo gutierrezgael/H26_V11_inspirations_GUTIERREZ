@@ -8,7 +8,13 @@
 
 >Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite. (Photo: Yoan Visinand)
 
-## Type d'exposition: Temporaire et intérieure.
-<img src=photo/entree_exposition_interieur.jpg alt="Une photo de moi devant l'entrée de l'exposition." width="450">
+## Type d'exposition
+C'était une exposition temporaire et intérieure.
 
->Une photo de moi devant l'entrée de l'exposition. (Photo: Yoan Visinand)
+## Date de ma visite
+J'ai conduis ma visite de 29 janvier 2026, c'était un jeudi.
+
+## Oeuvre: Techno-Compost 01 et Techno-Compost 02
+<img src=photo/vue_ensemble_techno_composte.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
+
+>Une vue d'ensemble de l'oeuvre. Techno-Compost 01 à droite et Techno-Compost 02. (Photo: Gaël Gutierrez)
