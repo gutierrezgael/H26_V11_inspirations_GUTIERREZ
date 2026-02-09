@@ -25,3 +25,6 @@ J'ai conduis ma visite de 29 janvier 2026, c'était un jeudi.
 <img src=photo/texte-explicatif_haut_techno-composte-1.jpg alt="Première partie du texte explicatif." width="250"> <img src=photo/texte-explicatif_bas_techno-composte-2.jpg alt="Deuxième partie du texte explicatif." width="250"> <img src=photo/texte-explicatif_bas_techno-composte-3.jpg alt="Troisième partie du texte explicatif." width="250">
 
 >Les trois parties du texte explicatif de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
+
+### Type d'oeuvre: Contemplative et immersive.
+Il y a de nombreuses couches à cette oeuvre, il y a la projection d'images générées par l'IA sur le mur de gauche et le collage de celles-ci sur le mur droit qui sont contemplatifs. Il y a également un grand accent sur la réalité virtuel dans cette oeuvre, ce qui la rapproche d'une oeuvre immersive.
