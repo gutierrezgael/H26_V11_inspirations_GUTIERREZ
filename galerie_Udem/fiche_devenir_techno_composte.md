@@ -22,6 +22,5 @@ J'ai conduis ma visite de 29 janvier 2026, c'était un jeudi.
 ### Année de réalisation: 2025
 
 ### Texte explicatif de l'oeuvre
-<img src=photo/texte-explicatif_haut_techno-composte-1.jpg alt="Première partie du texte explicatif." width="250"> <img src=photo/texte-explicatif_bas_techno-composte-2.jpg alt="Deuxième partie du texte explicatif." width="250">
-<img src=photo/texte-explicatif_bas_techno-composte-3.jpg alt="Troisième partie du texte explicatif." width="250">
+<img src=photo/texte-explicatif_haut_techno-composte-1.jpg alt="Première partie du texte explicatif." width="250"> <img src=photo/texte-explicatif_bas_techno-composte-2.jpg alt="Deuxième partie du texte explicatif." width="250"> <img src=photo/texte-explicatif_bas_techno-composte-3.jpg alt="Troisième partie du texte explicatif." width="250">
 
