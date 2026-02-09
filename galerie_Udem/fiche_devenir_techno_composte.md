@@ -18,3 +18,11 @@ J'ai conduis ma visite de 29 janvier 2026, c'était un jeudi.
 <img src=photo/vue_ensemble_techno_composte.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
 
 >Une vue d'ensemble de l'oeuvre. Techno-Compost 01 à droite et Techno-Compost 02. (Photo: Gaël Gutierrez)
+
+### Année de réalisation: 2025
+
+### Texte explicatif de l'oeuvre
+<img src=photo/texte-explicatif_haut_techno-composte-1.jpg alt="Première partie du texte explicatif." width="250">
+<img src=photo/texte-explicatif_haut_techno-composte-2.jpg alt="Deuxième partie du texte explicatif." width="250">
+<img src=photo/texte-explicatif_haut_techno-composte-3.jpg alt="Troisième partie du texte explicatif." width="250">
+
