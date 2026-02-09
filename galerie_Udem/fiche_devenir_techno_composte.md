@@ -10,3 +10,5 @@
 
 ## Type d'exposition: Temporaire et intérieure.
 <img src=photo/entree_exposition_interieur.jpg alt="Une photo de moi devant l'entrée de l'exposition." width="450">
+
+>Une photo de moi devant l'entrée de l'exposition. (Photo: Yoan Visinand)
