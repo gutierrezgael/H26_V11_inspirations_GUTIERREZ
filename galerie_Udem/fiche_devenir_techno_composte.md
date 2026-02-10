@@ -38,11 +38,12 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 ## Composantes et techniques
 
 <img src=photo/chaise_gauche.jpg alt="La chaise gauche, Techno-Compost 01." width="250">
-> La chaise gauche, Techno-Compost 01. (Photo: Gaël Gutierrez)
+
+>La chaise gauche, Techno-Compost 01. (Photo: Gaël Gutierrez)
 
 <img src=photo/chaise_gauche.jpg alt="La chaise droite, Techno-Compost 02." width="250">
-> La chaise droite, Techno-Compost 02. (Photo: Gaël Gutierrez)
+>La chaise droite, Techno-Compost 02. (Photo: Gaël Gutierrez)
 
 
 <img src=photo/collage.jpg alt="Le collage mural d'images générées par l'IA." width="250">
-> Le collage mural d'images générées par l'IA. (Photo: Gaël Gutierrez)
+>Le collage mural d'images générées par l'IA. (Photo: Gaël Gutierrez)
