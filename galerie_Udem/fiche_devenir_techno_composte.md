@@ -49,3 +49,7 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 <img src=photo/collage.jpg alt="Le collage mural d'images générées par l'IA." width="250">
 
 >Le collage mural d'images générées par l'IA. (Photo: Gaël Gutierrez)
+>
+><img src=photo/projecteur.jpg alt="La projection d'un diaporama d'images générées  l'IA." width="250">
+
+>La projection d'un diaporama d'images générées  l'IA. (Photo: Gaël Gutierrez)
