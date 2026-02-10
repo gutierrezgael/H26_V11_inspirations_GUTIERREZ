@@ -31,6 +31,6 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 ### Fonction du dispositif: Réutiliser les images générées par l'IA qui ont étés abandonnées. Ce à travers l'œuvre complète.
 
 ### Mise en espace
-<img src=photo/croquis_installation.jpg alt="Un croquis de l'installation." width="450">
+<img src=photo/croquis_installation.png alt="Un croquis de l'installation." width="450">
 
 >Un croquis de l'installation. (Photo: Gaël Gutierrez)
