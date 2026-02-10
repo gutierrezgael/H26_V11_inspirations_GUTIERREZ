@@ -34,3 +34,11 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 <img src=photo/croquis_installation_techno_composte.jpg alt="Un croquis de l'installation." width="450">
 
 >Un croquis de l'installation. (Photo: Gaël Gutierrez)
+
+##Composantes et techniques
+
+<img src=photo/chaise_gauche.jpg alt="La chaise gauche, Techno-Compost 01." width="250">
+>La chaise gauche, Techno-Compost 01. (Photo: Gaël Gutierrez)
+
+<img src=photo/chaise_gauche.jpg alt="La chaise droite, Techno-Compost 02." width="250">
+>La chaise droite, Techno-Compost 02. (Photo: Gaël Gutierrez)
