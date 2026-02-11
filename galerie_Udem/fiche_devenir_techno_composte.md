@@ -88,7 +88,7 @@ J'ai testé Techno-Compost 01 ensuite, l'expérience était un peu plus immersiv
 
 ### 3- Examination de la mosaïque
 
-J'ai testé Techno-Compost 01 ensuite, l'expérience était un peu plus immersive. Il y avait des images générées par l'IA accompagnées d'images d'insectes afin de représenter le compostage. Il y avait des vibrations venant de la chaise afin d'accompagner la chute de celles-ci. 
+J'ai examiné le collage mural de plus près, et j'ai pu observer la qualité médiocre du "slop" généré par l'IA.
 
 <img src=photo/collage.jpg alt="Le collage mural d'images générées par l'IA." width="250">
 
