@@ -57,3 +57,6 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 ## Éléments nécessaires à la mise en exposition
 
 <img src=photo/projecteur_techno_composte.jpg alt="Le projecteur de Techno-Compost 01 et Techno-Compost 02." width="250">
+
+>Le projecteur de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
+
