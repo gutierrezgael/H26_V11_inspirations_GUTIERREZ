@@ -82,6 +82,6 @@ J'ai testé Techno-Compost 02 d'abord, l'expérience était principallement cont
 
 J'ai testé Techno-Compost 01 ensuite, l'expérience 
 
-<img src=photo/vr_chaise_droite.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02." width="250">
+<img src=photo/vr_chaise_gauche.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02." width="250">
 
 >Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02. (Photo: Gaël Gutierrez)
