@@ -60,3 +60,10 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 
 >Le projecteur de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
 
+<img src=photo/senseur_humidite.jpg alt="Le senseur d'humidité de Techno-Compost 01 et Techno-Compost 02." width="250">
+
+>Le senseur d'humidité de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
+
+<img src=photo/ordinateur_techno_composte.jpg alt="L'ordinateur de Techno-Compost 01 et Techno-Compost 02." width="250">
+
+>L'ordinateur de Techno-Compost 01 et Techno-Compost 02 (Photo: Gaël Gutierrez)
