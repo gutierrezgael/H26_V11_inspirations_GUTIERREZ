@@ -26,9 +26,9 @@ C'était une exposition temporaire et intérieure.
 >Les trois parties du texte explicatif de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
 
 ### Type d'oeuvre: Contemplative et immersive.
-Il y a de nombreuses couches à cette œuvre, il y a la projection d'images générées par l'IA sur le mur de gauche et le collage de celles-ci sur le mur droit qui sont contemplatifs. Il y a également un grand accent sur la réalité virtuelle dans cette œuvre, ce qui la rapproche d'une œuvre immersive.
+Il y a de nombreuses couches à cette œuvre, il y a la projection d'images générées par l'IA sur le mur de gauche et le collage de celles-ci sur le mur droit qui sont contemplatives. Il y a également un grand accent sur la réalité virtuelle dans cette œuvre, ce qui la rapproche d'une œuvre immersive.
 
-### Fonction du dispositif: Réutiliser les images générées par l'IA qui ont étés abandonnées. Ce à travers l'œuvre complète.
+### Fonction du dispositif: Réutiliser les images générées par l'IA qui ont été abandonnées. Ce à travers l'œuvre complète.
 
 ### Mise en espace
 <img src=photo/croquis_installation_techno_composte.jpg alt="Un croquis de l'installation." width="450">
@@ -72,7 +72,7 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 
 ### 1- Test de Techno-Compost 02
 
-J'ai testé Techno-Compost 02 d'abord, l'expérience était principallement contemplative. Il y avait un paysage futuristique avec des racines qui sortaient du sol. Les textures du paysages étaient facilement identifiables comme étant générées par l'IA.
+J'ai testé Techno-Compost 02 d'abord, l'expérience était principalement contemplative. Il y avait un paysage futuriste avec des racines qui sortaient du sol. Les textures du paysage étaient facilement identifiables comme étant générées par l'IA.
 
 <img src=photo/vr_chaise_droite.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02." width="250">
 
@@ -104,10 +104,8 @@ J'ai observé la projection de loin, et j'ai ressenti une profonde tristesse en 
 
 ## Ce qui m'a plu ou qui m'a donné des idées
 
-Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspect metallique et presque alien de celles-ci.
-Je trouve, qu'en lien avec le concept, les chaises recyclent le "AI slop" de la manière la plus constructive.
+Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspect métallique, presque extraterrestre, de celles-ci. Je trouve qu'en lien avec le concept, les chaises recyclent l’"IA slop" de la manière la plus constructive.
 
-## Ce qui m'a plu ou qui m'a donné des idées
+## Aspect que vous je ferais autrement
 
-Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspect metallique et presque alien de celles-ci.
-Je trouve, qu'en lien avec le concept, les chaises recyclent le "AI slop" de la manière la plus constructive.
+Personnellement, je n'aime pas le fait que de nouvelles images furent générées pour ce projet, principalement pour la muraille. Personnellement, je pense que l'artiste aurait pu s'en tenir à utiliser des images qu'elle avait déjà générées auparavant. Je trouve que c'est un peu ironique de critiquer le "slop" comme étant souvent gaspilleur, tout en générant du "slop" soi-même.
