@@ -85,3 +85,11 @@ J'ai testé Techno-Compost 01 ensuite, l'expérience était un peu plus immersiv
 <img src=photo/vr_chaise_gauche.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 01." width="250">
 
 >Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 01. (Photo: Gaël Gutierrez)
+
+### 3- Examination de la mosaïque
+
+J'ai testé Techno-Compost 01 ensuite, l'expérience était un peu plus immersive. Il y avait des images générées par l'IA accompagnées d'images d'insectes afin de représenter le compostage. Il y avait des vibrations venant de la chaise afin d'accompagner la chute de celles-ci. 
+
+<img src=photo/collage.jpg alt="Le collage mural d'images générées par l'IA." width="250">
+
+>Le collage mural d'images générées par l'IA. (Photo: Gaël Gutierrez)
