@@ -56,4 +56,4 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 
 ## Éléments nécessaires à la mise en exposition
 
-<img src=photo/chaise_gauche.jpg alt="La chaise gauche, Techno-Compost 01." width="250">
+<img src=photo/projecteur_techno_composte.jpg alt="Le projecteur de Techno-Compost 01 et Techno-Compost 02." width="250">
