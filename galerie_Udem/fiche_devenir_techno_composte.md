@@ -67,3 +67,8 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 <img src=photo/ordinateur_techno_composte.jpg alt="L'ordinateur de Techno-Compost 01 et Techno-Compost 02." width="250">
 
 >L'ordinateur de Techno-Compost 01 et Techno-Compost 02 (Photo: Gaël Gutierrez)
+
+## Expérience vécue
+
+### 1- Test de Techno-Compost 02
+J'ai testé Techno-Compost 02 d'abord, l'expérience était principallement contemplative. Il y avait un paysage futuristique avec des racines qui sortaient du sol. Les textures du paysages étaient facilement identifiables comme étant générées par l'IA.
