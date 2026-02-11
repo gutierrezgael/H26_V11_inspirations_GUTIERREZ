@@ -96,7 +96,7 @@ J'ai examiné le collage mural de plus près, et j'ai pu observer la qualité m�
 
 ### 4- Examination de la projection
 
-J'ai observé la projection de loin, et j'ai ressenti une profonde tristesse en moi en voyant ces images projetées en grand. Cela m'as fait penser à la nature 
+J'ai observé la projection de loin, et j'ai ressenti une profonde tristesse en moi en voyant ces images projetées en grand. Cela m'a fait penser à l'impact environnemental massif de la génération d'images par l'IA, et de la nature 
 
 <img src=photo/projecteur.jpg alt="La projection d'un diaporama d'images générées par l'IA." width="250">
 
