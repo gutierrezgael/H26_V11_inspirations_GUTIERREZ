@@ -101,3 +101,13 @@ J'ai observé la projection de loin, et j'ai ressenti une profonde tristesse en 
 <img src=photo/projecteur.jpg alt="La projection d'un diaporama d'images générées par l'IA." width="250">
 
 >La projection d'un diaporama d'images générées par l'IA. (Photo: Gaël Gutierrez)
+
+## Ce qui m'a plu ou qui m'a donné des idées
+
+Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspect metallique et presque alien de celles-ci.
+Je trouve, qu'en lien avec le concept, les chaises recyclent le "AI slop" de la manière la plus constructive.
+
+## Ce qui m'a plu ou qui m'a donné des idées
+
+Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspect metallique et presque alien de celles-ci.
+Je trouve, qu'en lien avec le concept, les chaises recyclent le "AI slop" de la manière la plus constructive.
