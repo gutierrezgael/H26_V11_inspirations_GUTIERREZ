@@ -80,8 +80,8 @@ J'ai testé Techno-Compost 02 d'abord, l'expérience était principallement cont
 
 ### 2- Test de Techno-Compost 01
 
-J'ai testé Techno-Compost 01 ensuite, l'expérience 
+J'ai testé Techno-Compost 01 ensuite, l'expérience était un peu plus immersive. Il y avait des images générées par l'IA accompagnées d'images d'insectes afin de représenter le compostage. Il y avait des vibrations venant de la chaise afin d'accompagner la chute de celles-ci. 
 
-<img src=photo/vr_chaise_gauche.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02." width="250">
+<img src=photo/vr_chaise_gauche.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 01." width="250">
 
->Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02. (Photo: Gaël Gutierrez)
+>Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 01. (Photo: Gaël Gutierrez)
