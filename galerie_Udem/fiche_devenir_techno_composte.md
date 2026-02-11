@@ -74,6 +74,14 @@ Il y a de nombreuses couches à cette œuvre, il y a la projection d'images gén
 
 J'ai testé Techno-Compost 02 d'abord, l'expérience était principallement contemplative. Il y avait un paysage futuristique avec des racines qui sortaient du sol. Les textures du paysages étaient facilement identifiables comme étant générées par l'IA.
 
-<img src=photo/ordinateur_techno_composte.jpg alt="L'ordinateur de Techno-Compost 01 et Techno-Compost 02." width="250">
+<img src=photo/vr_chaise_droite.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02." width="250">
 
->L'ordinateur de Techno-Compost 01 et Techno-Compost 02 (Photo: Gaël Gutierrez)
+>Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02. (Photo: Gaël Gutierrez)
+
+### 2- Test de Techno-Compost 01
+
+J'ai testé Techno-Compost 01 ensuite, l'expérience 
+
+<img src=photo/vr_chaise_droite.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02." width="250">
+
+>Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02. (Photo: Gaël Gutierrez)
