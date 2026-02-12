@@ -108,4 +108,4 @@ Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspec
 
 ## Aspect que vous je ferais autrement
 
-Personnellement, je n'aime pas le fait que de nouvelles images furent générées pour ce projet, principalement pour la muraille. Personnellement, je pense que l'artiste aurait pu s'en tenir à utiliser des images qu'elle avait déjà générées auparavant. Je trouve que c'est un peu ironique de critiquer le "slop" comme étant souvent gaspilleur, tout en générant du "slop" soi-même.
+Personnellement, je n'aime pas le fait que de nouvelles images furent générées pour ce projet, principalement pour la muraille. Selon moi, l'artiste aurait pu s'en tenir à utiliser des images qu'elle avait déjà générées auparavant. Je trouve que c'est un peu ironique de critiquer le "slop" comme étant souvent gaspilleur, tout en générant du "slop" soi-même.
