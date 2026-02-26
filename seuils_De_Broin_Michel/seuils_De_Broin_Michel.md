@@ -1,5 +1,5 @@
 # Seuils (2017) de Michel De Broin
-<img src=media/photo/arsenal_affiche.jpg alt="Une photo de l'affiche principale de l'exposition." width="450">
+<img src=arsenal_affiche.jpg alt="Une photo de l'affiche principale de l'exposition." width="450">
 
 >Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
 
