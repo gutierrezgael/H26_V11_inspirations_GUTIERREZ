@@ -1,0 +1,1 @@
+Dans ce fichier, je vais discuter de ma visite à Arsenal, vendredi le 20 février 2026. Plus particulièrement, je vais explorer l'installation "Seuils", une œuvre qui fut réalisée par Michel de Broin en 2017.
