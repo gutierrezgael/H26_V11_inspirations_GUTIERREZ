@@ -104,11 +104,12 @@ J'ai observé la projection de loin, et j'ai ressenti une profonde tristesse en 
 
 ## Ce qui m'a plu ou qui m'a donné des idées
 
-Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspect métallique, presque extraterrestre, de celles-ci. Je trouve qu'en lien avec le concept, les chaises recyclent l’"IA slop" de la manière la plus constructive.
+Personnellement, cette œuvre m'a fait ressentir un sentiment de claustrophobie que j'ai trouvé vraiment intéressant. De plus en plus j'avançais dans ce couloir, de plus en plus je me sentais coincé. Ça m’a fait penser au sentiment d'être perdu dans un bâtiment que je ne connais pas, je voulais simplement sortir de là, mais la lenteur par laquelle les portes s'ouvraient m'en empêchait. 
 
-## Aspect que vous je ferais autrement
 
-Personnellement, je n'aime pas le fait que de nouvelles images furent générées pour ce projet, principalement pour la muraille. Selon moi, l'artiste aurait pu s'en tenir à utiliser des images qu'elle avait déjà générées auparavant. Je trouve que c'est un peu ironique de critiquer le "slop" comme étant souvent gaspilleur, tout en générant du "slop" soi-même.
+## Aspect que je ferais autrement
+
+En général, j'ai vraiment aimé cette œuvre, le seul aspect que je ferais autrement serait de demander à la galerie de ne pas mettre de différentes œuvres à la fin du trajet. Car, il y en avait une, et je n'étais pas sûr si elle faisait partie de Seuils et cela m'as rendu plutôt confus pour quelques instants.
 
 ## Références
 https://micheldebroin.org/fr/works/seuils-3/
