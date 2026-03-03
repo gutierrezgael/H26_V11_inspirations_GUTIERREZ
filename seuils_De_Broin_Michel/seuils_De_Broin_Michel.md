@@ -25,7 +25,7 @@ C'était une exposition temporaire et intérieure.
 
 >Le texte explicatif de Seuils (2017). (Photo: Gaël Gutierrez)
 
-## Type d'oeuvre: Contemplative et immersive.
+## Type d'oeuvre: Interactive
 Il y a de nombreuses couches à cette œuvre, il y a la projection d'images générées par l'IA sur le mur de gauche et le collage de celles-ci sur le mur droit qui sont contemplatives. Il y a également un grand accent sur la réalité virtuelle dans cette œuvre, ce qui la rapproche d'une œuvre immersive.
 
 ### Fonction du dispositif: Réutiliser les images générées par l'IA qui ont été abandonnées. Ce à travers l'œuvre complète.
