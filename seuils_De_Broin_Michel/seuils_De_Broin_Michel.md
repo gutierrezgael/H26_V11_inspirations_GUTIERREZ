@@ -4,7 +4,7 @@
 
 >Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
 
-## Lieu: Galerie de l'université de Montréal. 2940, ch. de la Côte-Sainte-Catherine.
+## Lieu: Arsenal art contemporains. 2020 Rue William, Montréal.
 <img src=media/photo/arsenal_entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
 
 >Une photo de deux élèves. Gaël Gutierrez à gauche et Yoan Visinand à droite. (Photo: Yoan Visinand)
@@ -12,7 +12,7 @@
 ## Type d'exposition
 C'était une exposition temporaire et intérieure.
 
-### Date de ma visite: Jeudi le 29 janvier 2026.
+### Date de ma visite: Vendredi le 20 février 2026.
 
 ## Œuvre : Techno-Compost 01 et Techno-Compost 02 par Marie-Ève Levasseur
 <img src=photo/vue_ensemble_techno_composte.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
