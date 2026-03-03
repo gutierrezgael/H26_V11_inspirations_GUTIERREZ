@@ -21,7 +21,7 @@ C'était une exposition temporaire et intérieure.
 ### Année de réalisation: 2007
 
 ##  Texte explicatif de l'œuvre
-<img src=media/photo/seuils_texte_explicatif.jpg alt="Le texte explicatif de Seuils (2017)." width="450"> 
+<img src=media/photo/seuils_texte_explicatif_francais.jpg alt="Le texte explicatif de Seuils (2017)." width="450"> 
 
 >Le texte explicatif de Seuils (2017). (Photo: Gaël Gutierrez)
 
