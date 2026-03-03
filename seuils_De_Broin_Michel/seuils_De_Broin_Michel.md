@@ -1,12 +1,12 @@
 # Seuils (2017) de Michel De Broin
-<img src=arsenal_affiche.jpg alt="Une photo de l'affiche principale de l'exposition." width="450">
+<img src=media/photo/arsenal_affiche.jpg alt="Une photo de l'affiche principale de l'exposition." width="450">
 
 >Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
 
 ## Lieu: Galerie de l'université de Montréal. 2940, ch. de la Côte-Sainte-Catherine.
 <img src=media/photo/arsenal_entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
 
->Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite. (Photo: Yoan Visinand)
+>Une photo de deux élèves. Gaël Gutierrez à gauche et Yoan Visinand à droite. (Photo: Yoan Visinand)
 
 ## Type d'exposition
 C'était une exposition temporaire et intérieure.
