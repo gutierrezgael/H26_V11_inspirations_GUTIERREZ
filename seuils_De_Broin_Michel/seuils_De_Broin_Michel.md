@@ -1,4 +1,4 @@
-# Seuils (2017) de Michel De Broin à Arsenal
+# Seuils (2017) de Michel De Broin, à la galerie d'art contemporain Arsenal
 <img src=media/photo/arsenal_affiche.jpg alt="Une photo de l'affiche principale de l'exposition." width="225">
 
 >Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
