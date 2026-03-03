@@ -1,5 +1,4 @@
-# Seuils (2017) de Michel De Broin
-### À la galerie d'art contemporain Arsenal
+# Parcours Arsenal art contemporain
 <img src=media/photo/arsenal_affiche.jpg alt="Une photo de l'affiche principale de l'exposition." width="225">
 
 >Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
@@ -14,17 +13,17 @@ C'était une exposition temporaire et intérieure.
 
 ### Date de ma visite: Vendredi le 20 février 2026.
 
-## Œuvre : Techno-Compost 01 et Techno-Compost 02 par Marie-Ève Levasseur
-<img src=photo/vue_ensemble_techno_composte.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
+## Œuvre : Seuils (2017) de Michel De Broin
+<img src=media/photo/seuils_vue_ensemble.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
 
->Une vue d'ensemble de l'œuvre. Techno-Compost 01 à droite et Techno-Compost 02. (Photo: Gaël Gutierrez)
+>Une vue d'ensemble de l'œuvre. (Photo: Gaël Gutierrez)
 
-### Année de réalisation: 2025
+### Année de réalisation: 2007
 
 ##  Texte explicatif de l'œuvre
-<img src=photo/texte-explicatif_haut_techno-composte-1.jpg alt="Première partie du texte explicatif." width="250"> <img src=photo/texte-explicatif_bas_techno-composte-2.jpg alt="Deuxième partie du texte explicatif." width="250"> <img src=photo/texte-explicatif_bas_techno-composte-3.jpg alt="Troisième partie du texte explicatif." width="250">
+<img src=media/photo/seuils_texte_explicatif.jpg alt="Le texte explicatif de Seuils (2017)." width="450"> 
 
->Les trois parties du texte explicatif de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
+>Le texte explicatif de Seuils (2017). (Photo: Gaël Gutierrez)
 
 ## Type d'oeuvre: Contemplative et immersive.
 Il y a de nombreuses couches à cette œuvre, il y a la projection d'images générées par l'IA sur le mur de gauche et le collage de celles-ci sur le mur droit qui sont contemplatives. Il y a également un grand accent sur la réalité virtuelle dans cette œuvre, ce qui la rapproche d'une œuvre immersive.
@@ -111,3 +110,7 @@ Ce que j'ai réellement aimé c'est la structure des chaises, j'ai aimé l'aspec
 
 Personnellement, je n'aime pas le fait que de nouvelles images furent générées pour ce projet, principalement pour la muraille. Selon moi, l'artiste aurait pu s'en tenir à utiliser des images qu'elle avait déjà générées auparavant. Je trouve que c'est un peu ironique de critiquer le "slop" comme étant souvent gaspilleur, tout en générant du "slop" soi-même.
 
+## Références
+https://micheldebroin.org/fr/works/seuils-3/
+https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/seuils-micheldebroin
+https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/parcours-arsenal-art-contemporain-2025
