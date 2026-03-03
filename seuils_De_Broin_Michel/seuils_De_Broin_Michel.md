@@ -18,7 +18,7 @@ C'était une exposition temporaire et intérieure.
 
 >Une vue d'ensemble de l'œuvre. (Photo: Gaël Gutierrez)
 
-### Année de réalisation: 2007
+### Année de réalisation: 2017
 
 ##  Texte explicatif de l'œuvre
 <img src=media/photo/seuils_texte_explicatif_francais.jpg alt="Le texte explicatif de Seuils (2017)." width="450"> 
@@ -26,9 +26,9 @@ C'était une exposition temporaire et intérieure.
 >Le texte explicatif de Seuils (2017). (Photo: Gaël Gutierrez)
 
 ## Type d'oeuvre: Interactive
-Il y a de nombreuses couches à cette œuvre, il y a la projection d'images générées par l'IA sur le mur de gauche et le collage de celles-ci sur le mur droit qui sont contemplatives. Il y a également un grand accent sur la réalité virtuelle dans cette œuvre, ce qui la rapproche d'une œuvre immersive.
+L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent automatiquement en détectant l'utilisateur.
 
-### Fonction du dispositif: Réutiliser les images générées par l'IA qui ont été abandonnées. Ce à travers l'œuvre complète.
+### Fonction du dispositif: Créer un trajet intéractif à travers un couloir d'anciennes portes de métro.
 
 ## Mise en espace
 <img src=photo/croquis_installation_techno_composte.jpg alt="Un croquis de l'installation." width="450">
