@@ -37,36 +37,41 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 
 ## Composantes et techniques
 
-<img src=photo/chaise_gauche.jpg alt="La chaise gauche, Techno-Compost 01." width="250">
+<img src=media/photo/seuils_vue_devant.jpg alt="Vue de devant de l'installation, qui comporte 12 portes." width="250">
 
->La chaise gauche, Techno-Compost 01. (Photo: Gaël Gutierrez)
+>Vue de devant de l'installation, qui comporte 12 portes. (Photo: Gaël Gutierrez)
 
-<img src=photo/chaise_gauche.jpg alt="La chaise droite, Techno-Compost 02." width="250">
+<img src=media/photo/seuils_freins.jpg alt="Le frein principal de cette installation, qui est présent à l'entrée." width="250">
 
->La chaise droite, Techno-Compost 02. (Photo: Gaël Gutierrez)
+>Le frein principal de cette installation, qui est présent à l'entrée. (Photo: Gaël Gutierrez)
 
+<img src=media/photo/seuils_consignes.jpg alt="La pancarte qui souligne les consignes et les règles à suivre pour les utilisateurs." width="250">
 
-<img src=photo/collage.jpg alt="Le collage mural d'images générées par l'IA." width="250">
+>La pancarte qui souligne les consignes et les règles à suivre pour les utilisateurs. (Photo: Gaël Gutierrez)
 
->Le collage mural d'images générées par l'IA. (Photo: Gaël Gutierrez)
+<img src=media/photo/seuils_disjoncteurs.jpg alt="Un des 12 disjoncteurs présents dans cette installation." width="250">
 
-<img src=photo/projecteur.jpg alt="La projection d'un diaporama d'images générées par l'IA." width="250">
+>Un des 12 disjoncteurs présents dans cette installation. (Photo: Gaël Gutierrez)
 
->La projection d'un diaporama d'images générées par l'IA. (Photo: Gaël Gutierrez)
+<img src=media/photo/seuils_piston.jpg alt="Une vue rapprochée d'un des pistons de cette installation." width="250">
+
+>Une vue rapprochée d'un des pistons de cette installation. (Photo: Gaël Gutierrez)
+
+<img src=media/photo/seuils_lumiere.jpg alt="Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation." width="250">
+
+>Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation. (Photo: Gaël Gutierrez)
+
 
 ## Éléments nécessaires à la mise en exposition
 
-<img src=photo/projecteur_techno_composte.jpg alt="Le projecteur de Techno-Compost 01 et Techno-Compost 02." width="250">
+<img src=media/photo/seuils_tapis.jpg alt="Le tapis, qui sert de plancher à l'installation." width="250">
 
->Le projecteur de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
+>Le tapis, qui sert de plancher à l'installation. (Photo: Gaël Gutierrez)
 
-<img src=photo/senseur_humidite.jpg alt="Le senseur d'humidité de Techno-Compost 01 et Techno-Compost 02." width="250">
+><img src=media/photo/seuils_piston.jpg alt="Une vue rapprochée de la structure qui supporte l'installation au sein du musée." width="250">
 
->Le senseur d'humidité de Techno-Compost 01 et Techno-Compost 02. (Photo: Gaël Gutierrez)
+>Une vue rapprochée de la structure qui supporte l'installation au sein du musée. (Photo: Gaël Gutierrez)
 
-<img src=photo/ordinateur_techno_composte.jpg alt="L'ordinateur de Techno-Compost 01 et Techno-Compost 02." width="250">
-
->L'ordinateur de Techno-Compost 01 et Techno-Compost 02 (Photo: Gaël Gutierrez)
 
 ## Expérience vécue
 
