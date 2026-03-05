@@ -37,25 +37,37 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 
 ## Composantes et techniques
 
+### Portes
+
 <img src=media/photo/seuils_vue_devant.jpg alt="Vue de devant de l'installation, qui comporte 12 portes." width="250">
 
 >Vue de devant de l'installation, qui comporte 12 portes. (Photo: Gaël Gutierrez)
+
+### Frein
 
 <img src=media/photo/seuils_freins.jpg alt="Le frein principal de cette installation, qui est présent à l'entrée." width="250">
 
 >Le frein principal de cette installation, qui est présent à l'entrée. (Photo: Gaël Gutierrez)
 
+### Pancarte des règles
+
 <img src=media/photo/seuils_consignes.jpg alt="La pancarte qui souligne les consignes et les règles à suivre pour les utilisateurs." width="250">
 
 >La pancarte qui souligne les consignes et les règles à suivre pour les utilisateurs. (Photo: Gaël Gutierrez)
+
+### Disjoncteur
 
 <img src=media/photo/seuils_disjoncteurs.jpg alt="Un des 12 disjoncteurs présents dans cette installation." width="250">
 
 >Un des 12 disjoncteurs présents dans cette installation. (Photo: Gaël Gutierrez)
 
+### Piston
+
 <img src=media/photo/seuils_piston.jpg alt="Une vue rapprochée d'un des pistons de cette installation." width="250">
 
 >Une vue rapprochée d'un des pistons de cette installation. (Photo: Gaël Gutierrez)
+
+### Lumière fluorescente
 
 <img src=media/photo/seuils_lumiere.jpg alt="Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation." width="250">
 
@@ -64,11 +76,15 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 
 ## Éléments nécessaires à la mise en exposition
 
+### Tapis
+
 <img src=media/photo/seuils_tapis.jpg alt="Le tapis, qui sert de plancher à l'installation." width="250">
 
 >Le tapis, qui sert de plancher à l'installation. (Photo: Gaël Gutierrez)
 
-><img src=media/photo/seuils_piston.jpg alt="Une vue rapprochée de la structure qui supporte l'installation au sein du musée." width="250">
+### Piston
+
+<img src=media/photo/seuils_piston.jpg alt="Une vue rapprochée de la structure qui supporte l'installation au sein du musée." width="250">
 
 >Une vue rapprochée de la structure qui supporte l'installation au sein du musée. (Photo: Gaël Gutierrez)
 
