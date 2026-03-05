@@ -91,7 +91,7 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 
 ## Expérience vécue
 
-(media/video/seuils_trajet_de_cote.mp4)
+[Voir la vidéo (vue de côté)](media/video/seuils_trajet_de_cote.mp4)
   
 >Une vidéo de l'expérience proposée par cette installation, vue de côté. (Vidéo: Gaël Gutierrez)
 
