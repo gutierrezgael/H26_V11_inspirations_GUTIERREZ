@@ -26,9 +26,9 @@ C'était une exposition temporaire et intérieure.
 >Le texte explicatif de Seuils (2017). (Photo: Gaël Gutierrez)
 
 ## Type d'oeuvre: Interactive
-L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent automatiquement en détectant l'utilisateur.
+L'intérêt de cette œuvre est l'interactivité  avec les portes qui s'ouvrent automatiquement en détectant l'utilisateur.
 
-### Fonction du dispositif: Créer un trajet intéractif à travers un couloir d'anciennes portes de métro.
+### Fonction du dispositif: Créer un trajet interactif à travers un couloir d'anciennes portes de métro.
 
 ## Mise en espace
 <img src=media/photo/seuils_croquis.jpg alt="Un croquis de l'installation." width="250">
@@ -108,7 +108,7 @@ Personnellement, cette œuvre m'a fait ressentir un sentiment de claustrophobie 
 
 ## Aspect que je ferais autrement
 
-En général, j'ai vraiment aimé cette œuvre, le seul aspect que je ferais autrement serait de demander à la galerie de ne pas mettre de différentes œuvres à la fin du trajet. Car, il y en avait une, et je n'étais pas sûr si elle faisait partie de Seuils et cela m'as rendu plutôt confus pour quelques instants.
+En général, j'ai vraiment aimé cette œuvre. En effet, le seul aspect que je ferais autrement serait de demander à la galerie de ne pas mettre de différentes œuvres à la fin du trajet. Car, il y en avait une, et je n'étais pas sûr si elle faisait partie de Seuils et cela m'as rendu plutôt confus pour quelques instants.
 
 ## Références
 https://micheldebroin.org/fr/works/seuils-3/
