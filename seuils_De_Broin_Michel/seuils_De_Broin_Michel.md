@@ -82,9 +82,9 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 
 >Le tapis, qui sert de plancher à l'installation. (Photo: Gaël Gutierrez)
 
-### Piston
+### Structure
 
-<img src=media/photo/seuils_piston.jpg alt="Une vue rapprochée de la structure qui supporte l'installation au sein du musée." width="250">
+<img src=media/photo/seuils_structure.jpg alt="Une vue rapprochée de la structure qui supporte l'installation au sein du musée." width="250">
 
 >Une vue rapprochée de la structure qui supporte l'installation au sein du musée. (Photo: Gaël Gutierrez)
 
