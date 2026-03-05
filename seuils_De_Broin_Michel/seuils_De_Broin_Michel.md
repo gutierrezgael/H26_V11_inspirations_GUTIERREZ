@@ -31,7 +31,7 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 ### Fonction du dispositif: Créer un trajet intéractif à travers un couloir d'anciennes portes de métro.
 
 ## Mise en espace
-<img src=photo/croquis_installation_techno_composte.jpg alt="Un croquis de l'installation." width="450">
+<img src=media/photo/seuils_croquis.jpg alt="Un croquis de l'installation." width="450">
 
 > Un croquis de l'installation. (Photo: Gaël Gutierrez)
 
