@@ -92,12 +92,14 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 ## Expérience vécue
 
 <video src=media/video/seuils_trajet_de_cote.mp4 alt="Une vidéo de l'expérience proposée par cette installation, vue de côté." width="250">
-
+(media/video/seuils_trajet_de_cote.mp4)
+  
 >Une vidéo de l'expérience proposée par cette installation, vue de côté. (Vidéo: Gaël Gutierrez)
 
 <video src=media/video/seuils_trajet_de_derriere.mp4 alt="Une vidéo de l'expérience proposée par cette installation, vue de derrière." width="250">
 
 >Une vidéo de l'expérience proposée par cette installation, vue de derrière. (Vidéo: Gaël Gutierrez)
+>
 
 ## Ce qui m'a plu ou qui m'a donné des idées
 
@@ -110,5 +112,7 @@ En général, j'ai vraiment aimé cette œuvre, le seul aspect que je ferais aut
 
 ## Références
 https://micheldebroin.org/fr/works/seuils-3/
+
 https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/seuils-micheldebroin
+
 https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/parcours-arsenal-art-contemporain-2025
