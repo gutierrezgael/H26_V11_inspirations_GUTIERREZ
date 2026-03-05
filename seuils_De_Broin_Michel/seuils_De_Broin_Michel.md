@@ -91,37 +91,13 @@ L'intérêt de cette œuvre est l'intéractivité avec les portes qui s'ouvrent 
 
 ## Expérience vécue
 
-### 1- Test de Techno-Compost 02
+<video src=media/video/seuils_trajet_de_cote.mp4 alt="Une vidéo de l'expérience proposée par cette installation, vue de côté." width="250">
 
-J'ai testé Techno-Compost 02 d'abord, l'expérience était principalement contemplative. Il y avait un paysage futuriste avec des racines qui sortaient du sol. Les textures du paysage étaient facilement identifiables comme étant générées par l'IA.
+>Une vidéo de l'expérience proposée par cette installation, vue de côté. (Vidéo: Gaël Gutierrez)
 
-<img src=photo/vr_chaise_droite.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02." width="250">
+<video src=media/video/seuils_trajet_de_derriere.mp4 alt="Une vidéo de l'expérience proposée par cette installation, vue de derrière." width="250">
 
->Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 02. (Photo: Gaël Gutierrez)
-
-### 2- Test de Techno-Compost 01
-
-J'ai testé Techno-Compost 01 ensuite, l'expérience était un peu plus immersive. Il y avait des images générées par l'IA accompagnées d'images d'insectes afin de représenter le compostage. Il y avait des vibrations venant de la chaise afin d'accompagner la chute de celles-ci. 
-
-<img src=photo/vr_chaise_gauche.jpg alt="Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 01." width="250">
-
->Un aperçu de l'intérieur des lunettes de réalité virtuelle de Techno-Compost 01. (Photo: Gaël Gutierrez)
-
-### 3- Examination de la mosaïque
-
-J'ai examiné le collage mural de plus près, et j'ai pu observer la qualité médiocre du "slop" généré par l'IA.
-
-<img src=photo/collage.jpg alt="Le collage mural d'images générées par l'IA." width="250">
-
->Le collage mural d'images générées par l'IA. (Photo: Gaël Gutierrez)
-
-### 4- Examination de la projection
-
-J'ai observé la projection de loin, et j'ai ressenti une profonde tristesse en moi en voyant ces images projetées en grand. Cela m'a fait penser à l'impact environnemental massif de la génération d'images par l'IA.
-
-<img src=photo/projecteur.jpg alt="La projection d'un diaporama d'images générées par l'IA." width="250">
-
->La projection d'un diaporama d'images générées par l'IA. (Photo: Gaël Gutierrez)
+>Une vidéo de l'expérience proposée par cette installation, vue de derrière. (Vidéo: Gaël Gutierrez)
 
 ## Ce qui m'a plu ou qui m'a donné des idées
 
