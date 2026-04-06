@@ -15,10 +15,10 @@
 ## Type d'exposition
 C'était une exposition temporaire et intérieure.
 
-### Date de ma visite: Vendredi le 20 février 2026.
+### Date de ma visite: Jeudi le 17 mars 2026.
 
-## Œuvre : Seuils (2017) de Michel De Broin
-<img src=media/photo/seuils_vue_ensemble.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
+## Quand les yeux se croisent par Eldewyn Ledru, Jade Hébert, Félix Lavoie, Patricia Nassif et Manel Yaya.
+<img src=media/quand-yeux_vue_ensemble.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
 
 >Une vue d'ensemble de l'œuvre. (Photo: Gaël Gutierrez)
 
