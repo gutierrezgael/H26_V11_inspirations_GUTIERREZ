@@ -25,9 +25,9 @@ C'était une exposition temporaire et intérieure.
 ### Année de réalisation: 2017
 
 ##  Texte explicatif de l'œuvre
-<img src=media/photo/seuils_texte_explicatif_francais.jpg alt="Le texte explicatif de Seuils (2017)." width="450"> 
+<img src=media/quand-yeux_texte_explicatif.jpg alt="Le texte explicatif de Quand les yeux se croisent." width="450"> 
 
->Le texte explicatif de Seuils (2017). (Photo: Gaël Gutierrez)
+>Le texte explicatif de Quand les yeux se croisent. (Photo: Gaël Gutierrez)
 
 ## Type d'oeuvre: Interactive
 L'intérêt de cette œuvre est l'interactivité  avec les portes qui s'ouvrent automatiquement en détectant l'utilisateur.
