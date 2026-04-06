@@ -34,45 +34,21 @@ Par intention, cette oeuvre est immersive.
 ### Fonction du dispositif: Représenter le lien entre les animaux et les humains à traver le regard.
 
 ## Mise en espace
-<img src=media/photo/quand-yeux_croquis.jpg alt="Un croquis de l'installation." width="250">
+<img src=media/quand-yeux_croquis.jpg alt="Un croquis de l'installation." width="250">
 
-> Un croquis de l'installation. (Photo: Jade Hébert)
+Un croquis de l'installation. (Photo: Jade Hébert)
 
 ## Composantes et techniques
 
-### Portes
+### Alimentation
 
-<img src=media/photo/seuils_vue_devant.jpg alt="Vue de devant de l'installation, qui comporte 12 portes." width="250">
+<img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation." width="125"><img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation, sans les décorations." width="125">
 
 >Vue de devant de l'installation, qui comporte 12 portes. (Photo: Gaël Gutierrez)
 
-### Frein
-
-<img src=media/photo/seuils_freins.jpg alt="Le frein principal de cette installation, qui est présent à l'entrée." width="250">
-
->Le frein principal de cette installation, qui est présent à l'entrée. (Photo: Gaël Gutierrez)
-
-### Pancarte des règles
-
-<img src=media/photo/seuils_consignes.jpg alt="La pancarte qui souligne les consignes et les règles à suivre pour les utilisateurs." width="250">
-
->La pancarte qui souligne les consignes et les règles à suivre pour les utilisateurs. (Photo: Gaël Gutierrez)
-
-### Disjoncteur
-
-<img src=media/photo/seuils_disjoncteurs.jpg alt="Un des 12 disjoncteurs présents dans cette installation." width="250">
-
->Un des 12 disjoncteurs présents dans cette installation. (Photo: Gaël Gutierrez)
-
-### Piston
-
-<img src=media/photo/seuils_piston.jpg alt="Une vue rapprochée d'un des pistons de cette installation." width="250">
-
->Une vue rapprochée d'un des pistons de cette installation. (Photo: Gaël Gutierrez)
-
 ### Lumière fluorescente
 
-<img src=media/photo/seuils_lumiere.jpg alt="Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation." width="250">
+<img src=media/quand-yeux_lumiere.jpg alt="Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation." width="250">
 
 >Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation. (Photo: Gaël Gutierrez)
 
