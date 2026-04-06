@@ -1,7 +1,11 @@
 # Réseau vivant
-<img src=media/photo/arsenal_affiche.jpg alt="Une photo de l'affiche principale de l'exposition." width="225">
+<img src=media/reseau-vivant_affiche.jpg alt="Une photo de l'affiche principale de l'exposition, sur tableau blanc." width="225">
 
->Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
+>Une photo de l'affiche principale de l'exposition, sur tableau blanc. (Photo: Gaël Gutierrez)
+
+<img src=media/reseau-vivant_affiche_projecteur.jpg alt="Une photo de l'affiche principale de l'exposition, sur projecteur." width="225">
+
+>Une photo de l'affiche principale de l'exposition, sur projecteur. (Photo: Gaël Gutierrez)
 
 ## Lieu: Collège Montmorency. 475 Boulevard de l'Avenir, Laval. 
 <img src=media/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
