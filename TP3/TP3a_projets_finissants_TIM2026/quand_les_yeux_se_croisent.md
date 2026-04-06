@@ -42,9 +42,9 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 ### Alimentation
 
-<img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation." width="125"><img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation, sans les décorations." width="125">
+<img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation." width="175"><img src=media/quand-yeux_alimentation_sans_deco.jpg alt="Vue de l'alimentation de cette installation, sans les décorations." width="175">
 
->Vue de devant de l'installation, qui comporte 12 portes. (Photo: Gaël Gutierrez)
+>Deux vues de l'alimentation de cette installation, à gauche avec les décorations, et à droite sans les décorations. (Photo: Gaël Gutierrez)
 
 ### Lumière fluorescente
 
