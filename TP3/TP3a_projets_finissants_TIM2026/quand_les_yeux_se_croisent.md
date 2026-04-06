@@ -52,12 +52,17 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 >Deux vues d'un des quatre Raspberry Pi, qui affiche les images capturées par les caméras. À gauche alors qu'il n'est pas actif, et à droite alors qu'il est actif.  (Photo: Gaël Gutierrez)
 
-### Alimentation
+### Télévision
 
+<img src=media/quand-yeux_television.jpg alt="Une vue d'une des quatre télévision qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras." width="250">
 
-<img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation." width="250"><img src=media/quand-yeux_alimentation_sans_deco.jpg alt="Vue de l'alimentation de cette installation, sans les décorations." width="250">
+>Une vue d'une des quatre télévision qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras. (Photo: Gaël Gutierrez)
 
->Deux vues de l'alimentation de cette installation, à gauche avec les décorations, et à droite sans les décorations. (Photo: Gaël Gutierrez)
+### Haut parleur
+
+<img src=media/quand-yeux_haut_parleur.jpg alt="Une vue d'un des quatre haut parleurs de cette installation." width="250">
+
+>Une vue d'un des quatre haut parleurs de cette installation. (Photo: Gaël Gutierrez)
 
 ### Lumière fluorescente
 
@@ -67,17 +72,11 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 ## Éléments nécessaires à la mise en exposition
 
-### Tapis
+### Alimentation
 
-<img src=media/photo/seuils_tapis.jpg alt="Le tapis, qui sert de plancher à l'installation." width="250">
+<img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation." width="250"><img src=media/quand-yeux_alimentation_sans_deco.jpg alt="Vue de l'alimentation de cette installation, sans les décorations." width="250">
 
->Le tapis, qui sert de plancher à l'installation. (Photo: Gaël Gutierrez)
-
-### Structure
-
-<img src=media/photo/seuils_structure.jpg alt="Une vue rapprochée de la structure qui supporte l'installation au sein du musée." width="250">
-
->Une vue rapprochée de la structure qui supporte l'installation au sein du musée. (Photo: Gaël Gutierrez)
+>Deux vues de l'alimentation de cette installation, à gauche avec les décorations, et à droite sans les décorations. (Photo: Gaël Gutierrez)
 
 
 ## Expérience vécue
