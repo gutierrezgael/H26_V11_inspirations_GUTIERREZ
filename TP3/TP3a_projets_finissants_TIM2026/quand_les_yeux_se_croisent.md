@@ -4,7 +4,7 @@
 >Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
 
 ## Lieu: Collège Montmorency. 475 Boulevard de l'Avenir, Laval. 
-<img src=media/photo/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
+<img src=media/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
 
 >Une photo de deux élèves. Gaël Gutierrez à gauche et Yoan Visinand à droite. (Photo: Yoan Visinand)
 
