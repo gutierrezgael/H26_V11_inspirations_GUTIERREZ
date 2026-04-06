@@ -40,7 +40,20 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 ## Composantes et techniques
 
+### Caméra
+
+<img src=media/quand-yeux_camera.jpg alt="Une vue rapprochée d'une des deux caméras qui enregristrent des images nécessaire à l'installation." width="250">
+
+>Une vue rapprochée d'une des deux caméras qui enregristrent des images nécessaire à l'installation. (Photo: Gaël Gutierrez)
+
+### Raspberry Pi
+
+<img src=media/quand-yeux_raspberrypi.jpg alt="Une vue d'un des quatre Raspberry Pi, qui affiche les images capturées par les caméras." width="250"><img src=media/quand-yeux_raspberrypi_exemple.jpg alt="Une vue d'un des quatre Raspberry Pi, qui affiche les images capturées par les caméras, alors qu'il est en action." width="250">
+
+>Deux vues d'un des quatre Raspberry Pi, qui affiche les images capturées par les caméras. À gauche alors qu'il n'est pas actif, et à droite alors qu'il est actif.  (Photo: Gaël Gutierrez)
+
 ### Alimentation
+
 
 <img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation." width="250"><img src=media/quand-yeux_alimentation_sans_deco.jpg alt="Vue de l'alimentation de cette installation, sans les décorations." width="250">
 
@@ -51,7 +64,6 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 <img src=media/quand-yeux_lumiere.jpg alt="Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation." width="250">
 
 >Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation. (Photo: Gaël Gutierrez)
-
 
 ## Éléments nécessaires à la mise en exposition
 
