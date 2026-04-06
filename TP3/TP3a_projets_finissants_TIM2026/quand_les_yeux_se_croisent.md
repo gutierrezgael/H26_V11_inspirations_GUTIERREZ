@@ -78,27 +78,19 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 >Deux vues de l'alimentation de cette installation, à gauche avec les décorations, et à droite sans les décorations. (Photo: Gaël Gutierrez)
 
-
 ## Expérience vécue
 
-[Voir la vidéo (vue de côté)](media/video/seuils_trajet_de_cote.mp4)
-  
->Une vidéo de l'expérience proposée par cette installation, vue de côté. (Vidéo: Gaël Gutierrez)
->
-
-[Voir la vidéo (vue de derrière)](media/video/seuils_trajet_de_derriere.mp4)
-  
->Une vidéo de l'expérience proposée par cette installation, vue de derrière. (Vidéo: Gaël Gutierrez)
+La première fois que j'ai essayé cette installation, j'étais plutôt confus; je ne comprenais pas la fonction de ce dispositif. Mais, après m'être installé sur la zone indiquée, j'ai été agréablement surpris par l'affichage de mon visage sur l'un des écrans. J'ai trouvé que les effets stylistiques étaient très intéressant, et en combinaison avec les décorations très bien réalisées, j'ai trouvé que cette installation était probablement la meilleure.
 
 
 ## Ce qui m'a plu ou qui m'a donné des idées
 
-Personnellement, cette œuvre m'a fait ressentir un sentiment de claustrophobie que j'ai trouvé vraiment intéressant. De plus en plus j'avançais dans ce couloir, de plus en plus je me sentais coincé. Ça m’a fait penser au sentiment d'être perdu dans un bâtiment que je ne connais pas, je voulais simplement sortir de là, mais la lenteur par laquelle les portes s'ouvraient m'en empêchait. 
+Personnellement, j'ai trouvé que l'aspect visuel de ce projet était très bien réalisé. Il est facilement constatable que l'équipe a planifié en détail leur vision artistique pour ce projet.
 
 
 ## Aspect que je ferais autrement
 
-En général, j'ai vraiment aimé cette œuvre. En effet, le seul aspect que je ferais autrement serait de demander à la galerie de ne pas mettre de différentes œuvres à la fin du trajet. Car, il y en avait une, et je n'étais pas sûr si elle faisait partie de Seuils et cela m'as rendu plutôt confus pour quelques instants.
+Le seul aspect que je n'ai pas aimé est l'utilisation de l'IA générative pour les vidéos d'animaux, je pense que l'équipe aurait pu facilement trouver des vidéos sans droit d'auteur et éviter d'utiliser cette technologie qui affecte notre environnement.
 
 ## Références
 https://micheldebroin.org/fr/works/seuils-3/
