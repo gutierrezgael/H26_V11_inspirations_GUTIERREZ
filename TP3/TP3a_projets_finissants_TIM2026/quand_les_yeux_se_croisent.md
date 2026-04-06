@@ -22,17 +22,16 @@ C'était une exposition temporaire et intérieure.
 
 >Une vue d'ensemble de l'œuvre. (Photo: Gaël Gutierrez)
 
-### Année de réalisation: 2017
+### Année de réalisation: 2026
 
 ##  Texte explicatif de l'œuvre
 <img src=media/quand-yeux_texte_explicatif.jpg alt="Le texte explicatif de Quand les yeux se croisent." width="450"> 
 
 >Le texte explicatif de Quand les yeux se croisent. (Photo: Gaël Gutierrez)
 
-## Type d'oeuvre: Interactive
-L'intérêt de cette œuvre est l'interactivité  avec les portes qui s'ouvrent automatiquement en détectant l'utilisateur.
-
-### Fonction du dispositif: Créer un trajet interactif à travers un couloir d'anciennes portes de métro.
+## Type d'oeuvre: Immersif.
+Par intention, cette oeuvre est immersive.
+### Fonction du dispositif: Représenter le lien entre les animaux et les humains à traver le regard.
 
 ## Mise en espace
 <img src=media/photo/seuils_croquis.jpg alt="Un croquis de l'installation." width="250">
