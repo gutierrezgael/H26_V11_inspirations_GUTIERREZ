@@ -1,7 +1,6 @@
-# Parlmares des Oeuvre
-Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
+# Parlmarès des œuvres
 
-<br>
+L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, j'en discute dans le fichier **fiche_EXPO_quand-les-yeux-se-croisent.md** .
 
 ## Oeuvre #2
 ### Nom: Terminal
