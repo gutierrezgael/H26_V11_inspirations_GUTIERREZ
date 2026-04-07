@@ -16,101 +16,19 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
 
 <img src=photo-palamres/croquis_terminal.png alt="" width="300">
 
-> croquis de l'instalation *terminal* (site web de l'équipe/exposition)
+> Croquis de l'installation Terminal (site web de l'équipe/exposition)
 
 ### Équipe
 -  Émeryk Bélisle
+  
 -  Elie Daher
+  
 -  Terry Ting Yung Lu
+  
 -  Dana Saavedra-Torrano
+  
 -  Mégane Ranger
+   
 ### Mon expérience
 
-<br>
-<br>
-
-## Oeuvre #3
-### Nom: Symbiose
-### Instalation et croquis
-
-<img src=photo-palamres/palmares_symbiose.jpg alt="" width="400">
-
-> photo de l'instalation *Symbiose* (photo: Ahmed)
-
-<img src=photo-palamres/croquis_symbiose.png alt="" width="300">
-
-> croquis de l'instalation *symbiose* (site web de l'équipe/exposition)
-
-### Équipe
-- Ryan Dufault
-- Yannick Chamberland
-- Walid Cheour
-- Benjamin Ferland
-### Mon expérience
-
-<br>
-<br>
-
-## Oeuvre #4
-### Nom: Mission Décollage
-### Instalation et croquis
-
-<img src=photo-palamres/palmares_mission.jpg alt="" width="400">
-
-> photo de l'instalation *Mission Décollage* (photo: Ahmed)
-
-<img src=photo-palamres/croquis_mission.png alt="" width="300">
-
-> croquis de l'instalation *Mission Décollage* (site web de l'équipe/exposition)
-
-### Équipe
-- Ahmed Kaissoumi
-- Justin Montpetit
-- Jad Saloumi
-- Thearylou Lach
-- Radhouane Kordan
-### Mon expérience
-
-<br>
-<br>
-
-## Oeuvre #5
-### Nom: Ocean Rouge
-### Instalation et croquis
-
-<img src=photo-palamres/palamares_ocean_rouge.jpg alt="" width="400">
-
-> photo de l'instalation *Ocean Rouge* (photo: Ahmed)
-
-<img src=photo-palamres/croquis_ocean_rouge.png alt="" width="300">
-
-> croquis de l'instalation *Ocean Rouge* (site web de l'équipe/exposition)
-
-### Équipe
-- Amira Tounekti
-- Kristy Moussally
-### Mon expérience
-
-<br>
-<br>
-
-## Oeuvre #6
-### Nom: Arbre En Face
-### Instalation et croquis
-
-<img src=photo-palamres/palmares_abre_face.jpg alt="" width="400">
-
-> photo de l'instalation *Arbre En Face* (photo: Ahmed)
-
-<img src=photo-palamres/croquis_abre_face.jpg alt="" width="300">
-
-> croquis de l'instalation *Arbre En Face* (site web de l'équipe/exposition)
-
-### Équipe
-- Alexandre Gendron
-- Mikael Arseneau
-- Mathieu Willett
-- Matis Ghariani
-- Rafael Angon Dubé
-### Mon expérience
 
