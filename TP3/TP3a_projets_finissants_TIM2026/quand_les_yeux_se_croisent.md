@@ -29,9 +29,9 @@ C'était une exposition temporaire et intérieure.
 
 >Le texte explicatif de Quand les yeux se croisent. (Photo: Gaël Gutierrez)
 
-## Type d'oeuvre: Immersif.
-Par intention, cette oeuvre est immersive.
-### Fonction du dispositif: Représenter le lien entre les animaux et les humains à traver le regard.
+## Type d'œuvre: Immersif.
+Par intention, cette œuvre est immersive.
+### Fonction du dispositif: Représenter le lien entre les animaux et les humains à travers le regard.
 
 ## Mise en espace
 <img src=media/quand-yeux_croquis.jpg alt="Un croquis de l'installation." width="250">
@@ -42,7 +42,7 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 ### Caméra
 
-<img src=media/quand-yeux_camera.jpg alt="Une vue rapprochée d'une des deux caméras qui enregristrent des images nécessaire à l'installation." width="250">
+<img src=media/quand-yeux_camera.jpg alt="Une vue rapprochée d'une des deux caméras qui enregistrent  des images nécessaires à l'installation." width="250">
 
 >Une vue rapprochée d'une des deux caméras qui enregristrent des images nécessaire à l'installation. (Photo: Gaël Gutierrez)
 
@@ -54,13 +54,13 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 ### Télévision
 
-<img src=media/quand-yeux_television.jpg alt="Une vue d'une des quatre télévision qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras." width="250">
+<img src=media/quand-yeux_television.jpg alt="Une vue d'une des quatre télévisions qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras." width="250">
 
->Une vue d'une des quatre télévision qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras. (Photo: Gaël Gutierrez)
+>Une vue d'une des quatre télévisions qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras. (Photo: Gaël Gutierrez)
 
-### Haut parleur
+### Haut-parleur
 
-<img src=media/quand-yeux_haut_parleur.jpg alt="Une vue d'un des quatre haut parleurs de cette installation." width="250">
+<img src=media/quand-yeux_haut_parleur.jpg alt="Une vue d'un des quatre hauts-parleurs de cette installation." width="250">
 
 >Une vue d'un des quatre haut parleurs de cette installation. (Photo: Gaël Gutierrez)
 
@@ -80,7 +80,7 @@ Un croquis de l'installation. (Photo: Jade Hébert)
 
 ## Expérience vécue
 
-La première fois que j'ai essayé cette installation, j'étais plutôt confus; je ne comprenais pas la fonction de ce dispositif. Mais, après m'être installé sur la zone indiquée, j'ai été agréablement surpris par l'affichage de mon visage sur l'un des écrans. J'ai trouvé que les effets stylistiques étaient très intéressant, et en combinaison avec les décorations très bien réalisées, j'ai trouvé que cette installation était probablement la meilleure.
+La première fois que j'ai essayé cette installation, j'étais plutôt confus; je ne comprenais pas la fonction de ce dispositif. Mais, après m'être installé sur la zone indiquée, j'ai été agréablement surpris par l'affichage de mon visage sur l'un des écrans. J'ai trouvé que les effets stylistiques étaient très intéressants, et en combinaison avec les décorations très bien réalisées, j'ai trouvé que cette installation était probablement la meilleure.
 
 
 ## Ce qui m'a plu ou qui m'a donné des idées
@@ -93,8 +93,8 @@ Personnellement, j'ai trouvé que l'aspect visuel de ce projet était très bien
 Le seul aspect que je n'ai pas aimé est l'utilisation de l'IA générative pour les vidéos d'animaux, je pense que l'équipe aurait pu facilement trouver des vidéos sans droit d'auteur et éviter d'utiliser cette technologie qui affecte notre environnement.
 
 ## Références
-https://micheldebroin.org/fr/works/seuils-3/
+[https://micheldebroin.org/fr/works/seuils-3/
 
 https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/seuils-micheldebroin
 
-https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/parcours-arsenal-art-contemporain-2025
+https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/parcours-arsenal-art-contemporain-2025](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
