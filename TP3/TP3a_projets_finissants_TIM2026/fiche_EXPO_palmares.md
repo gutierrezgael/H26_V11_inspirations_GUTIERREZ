@@ -1,25 +1,29 @@
-# Parlmarès des œuvres
+# Parlmarès des œuvres de
 
-L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, j'en discute dans le fichier **fiche_EXPO_quand-les-yeux-se-croisent.md** .
+L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, j'en discute dans le fichier **fiche_EXPO_quand-les-yeux-se-croisent.md**
 
-## Oeuvre #2
+## Deuxième œuvre 
+
 ### Nom: Terminal
-### Instalation et croquis
+
+### Installation
 
 <img src=photo-palamres/palamares_termianl.jpg alt="" width="400">
 
 > photo de l'instalation *terminal* (photo: Yoan Visinand)
+
+### Croquis
 
 <img src=photo-palamres/croquis_terminal.png alt="" width="300">
 
 > croquis de l'instalation *terminal* (site web de l'équipe/exposition)
 
 ### Équipe
-- Dana Saavedra-Torrano
--  Mégane Ranger
--  Terry Ting Yung Lu
 -  Émeryk Bélisle
--   Elie Daher
+-  Elie Daher
+-  Terry Ting Yung Lu
+-  Dana Saavedra-Torrano
+-  Mégane Ranger
 ### Mon expérience
 
 <br>
