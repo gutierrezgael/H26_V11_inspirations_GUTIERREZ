@@ -8,7 +8,7 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
 
 ### Installation
 
-<img src=media/reseau-vivant-entree.jpg alt="Une photo de Terminal." width="450">
+<img src=media/terminal_palmares.jpg alt="Une photo de Terminal." width="450">
 
 > Une photo de Terminal (Photo:Ahmed El-Mekari)
 
