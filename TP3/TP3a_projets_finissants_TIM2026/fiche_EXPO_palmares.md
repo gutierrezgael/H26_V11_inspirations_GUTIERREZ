@@ -14,7 +14,7 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
 
 ### Croquis
 
-<img src=media/terminal_croquis.jpg alt="Un croquis de Symbiose." width="450">
+<img src=media/symbiose_croquis.jpg alt="Un croquis de Symbiose." width="450">
 
 > Un croquis de Symbiose. (Photo: Site web de l'équipe)
 
