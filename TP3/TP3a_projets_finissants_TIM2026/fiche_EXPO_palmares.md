@@ -14,7 +14,7 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
 
 ### Croquis
 
-<img src=photo-palamres/croquis_terminal.png alt="Un croquis de Terminal" width="450">
+<img src=media/terminal_croquis.jpg alt="Un croquis de Terminal." width="450">
 
 > Croquis de Terminal (site web de l'équipe/exposition)
 
