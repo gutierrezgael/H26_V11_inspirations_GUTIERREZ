@@ -20,19 +20,17 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
 
 ### Équipe
 
--  Émeryk Bélisle
+-  Yannick Chamberland
   
--  Elie Daher
+-  Benjamin Ferland
   
--  Ting Yung Lu Terry 
+-  Ryan Dufault
   
--  Dana Saavedra-Torrano
-  
--  Mégane Ranger
+-  Walid Cheour
    
 ### Mon expérience et mes sentiments
 
-Mon expérience avec cette installation était très positive, j'ai adoré l'aspect coopératif de ce jeu. Les membres de l'équipe étaient très proactifs et ont bien expliqué le concept de cette expérience, de façon à ce que nous pussions immédiatement nous immerger dans ce jeu simple, mais amusant.
+Mon expérience avec Symbiose fut incroyable, le jeu coopératif que cette équipe a conçu est tout simplement captivant. J'adore l'élément de tension qui est créé par l'inclusion d'un compte à rebours. J'ai aussi vraiment aimé la direction artistique du projet, ça ma fait pensé au jeux des années 2000 et cela m'a donné un sentiment de nostalgie.
 
 ## Troisième œuvre 
 
