@@ -1,6 +1,6 @@
-# Parlmarès des œuvres de
+# Parlmarès des œuvres de Réseau vivant
 
-L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, j'en discute dans le fichier **fiche_EXPO_quand-les-yeux-se-croisent.md**
+L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, j'en discute dans le fichier **fiche_Reseau_vivant_Quand_les_yeux_se_croisent.md**
 
 ## Deuxième œuvre 
 
@@ -8,52 +8,23 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
 
 ### Installation
 
-<img src=photo-palamres/palamares_termianl.jpg alt="" width="400">
+<img src=media/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
 
-> Photo de Terminal (photo: Yoan Visinand)
+> Photo de Terminal (photo: )
 
 ### Croquis
 
-<img src=photo-palamres/croquis_terminal.png alt="" width="300">
+<img src=photo-palamres/croquis_terminal.png alt="Un croquis de Terminal" width="450">
 
 > Croquis de Terminal (site web de l'équipe/exposition)
 
 ### Équipe
+
 -  Émeryk Bélisle
   
 -  Elie Daher
   
--  Terry Ting Yung Lu
-  
--  Dana Saavedra-Torrano
-  
--  Mégane Ranger
-   
-### Mon expérience
-
-
-## Troisième œuvre 
-
-### Nom: Océan Rouge
-
-### Installation
-
-<img src=photo-palamres/palamares_termianl.jpg alt="" width="400">
-
-> Photo de Océan Rouge (photo: Yoan Visinand)
-
-### Croquis
-
-<img src=photo-palamres/croquis_terminal.png alt="" width="300">
-
-> Croquis de l'installation Terminal (site web de l'équipe/exposition)
-
-### Équipe
--  Émeryk Bélisle
-  
--  Elie Daher
-  
--  Terry Ting Yung Lu
+-  Ting Yung Lu Terry 
   
 -  Dana Saavedra-Torrano
   
