@@ -30,7 +30,7 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
    
 ### Mon expérience et mes sentiments
 
-Mon expérience avec Symbiose fut incroyable, le jeu coopératif que cette équipe a conçu est tout simplement captivant. J'adore l'élément de tension qui est créé par l'inclusion d'un compte à rebours. J'ai aussi vraiment aimé la direction artistique du projet, ça ma fait pensé au jeux des années 2000 et cela m'a donné un sentiment de nostalgie.
+Mon expérience avec Symbiose fut incroyable, le jeu coopératif que cette équipe a conçu est tout simplement captivant. J'adore l'élément de tension qui est créé par l'inclusion d'un compte à rebours. J'ai aussi vraiment aimé la direction artistique du projet, ça m’a fait penser aux jeux des années 2000 et cela m'a donné un sentiment de nostalgie.
 
 ## Troisième œuvre 
 
