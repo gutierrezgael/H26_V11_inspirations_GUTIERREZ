@@ -8,15 +8,15 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
 
 ### Installation
 
-<img src=media/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
+<img src=media/reseau-vivant-entree.jpg alt="Une photo de Terminal." width="450">
 
-> Photo de Terminal (photo: )
+> Une photo de Terminal (Photo:Ahmed El-Mekari)
 
 ### Croquis
 
 <img src=media/terminal_croquis.jpg alt="Un croquis de Terminal." width="450">
 
-> Croquis de Terminal (site web de l'équipe/exposition)
+> Un croquis de Terminal (Photo: Site web de l'équipe)
 
 ### Équipe
 
@@ -30,6 +30,6 @@ L' œuvre qui se trouve en première place est *Quand les yeux se rencontrent*, 
   
 -  Mégane Ranger
    
-### Mon expérience
+### Mon expérience et mes sentiments
 
-
+Mon expérience avec cette installation était très positive, j'ai adoré l'aspect coopératif de ce jeu. Les membres de l'équipe étaient très proactifs et ont bien expliqué le concept de cette expérience, de façon à ce que nous pussions immédiatement nous immerger dans ce jeu simple, mais amusant.
