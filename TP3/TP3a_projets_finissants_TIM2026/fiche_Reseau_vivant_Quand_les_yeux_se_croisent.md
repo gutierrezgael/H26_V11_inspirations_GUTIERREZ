@@ -93,7 +93,7 @@ Personnellement, j'ai trouvé que l'aspect visuel de ce projet était très bien
 Le seul aspect que je n'ai pas aimé est l'utilisation de l'IA générative pour les vidéos d'animaux, je pense que l'équipe aurait pu facilement trouver des vidéos sans droit d'auteur et éviter d'utiliser cette technologie qui affecte notre environnement.
 
 ## Références
-[https://micheldebroin.org/fr/works/seuils-3/
+https://micheldebroin.org/fr/works/seuils-3/
 
 https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/seuils-micheldebroin
 
