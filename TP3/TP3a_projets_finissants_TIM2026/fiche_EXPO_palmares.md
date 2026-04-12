@@ -82,16 +82,10 @@ Mon expérience avec cette installation était très positive, j'ai adoré l'asp
 
 ### Équipe
 
--  Émeryk Bélisle
+-  Amira Tounekti
   
--  Elie Daher
-  
--  Ting Yung Lu Terry 
-  
--  Dana Saavedra-Torrano
-  
--  Mégane Ranger
+-  Kristy Moussaly
    
 ### Mon expérience et mes sentiments
 
-Mon expérience avec cette installation était très positive, j'ai adoré l'aspect coopératif de ce jeu. Les membres de l'équipe étaient très proactifs et ont bien expliqué le concept de cette expérience, de façon à ce que nous pussions immédiatement nous immerger dans ce jeu simple, mais amusant.
+J'ai trouvé Océan Rouge très charmant, c'est un jeu très simple mais amusant et bien stylisé. Je trouve aussi que le fait que ce projet fut réalisé par une équipe de seulement 2 personnes est très impressionnant et le fait que l'intelligence artificielle ne fut pas utilisée m'inspire grandement. Les efforts de ces deux personnes me prouvent qu'il est toujours possible de réaliser des projets de qualité professionnelle sans à avoir à se pencher sur cet outil génératif.
