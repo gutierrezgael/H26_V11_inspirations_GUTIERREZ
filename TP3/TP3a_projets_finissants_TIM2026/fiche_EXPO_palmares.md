@@ -63,3 +63,35 @@ Mon expérience avec Symbiose fut incroyable, le jeu coopératif que cette équi
 ### Mon expérience et mes sentiments
 
 Mon expérience avec cette installation était très positive, j'ai adoré l'aspect coopératif de ce jeu. Les membres de l'équipe étaient très proactifs et ont bien expliqué le concept de cette expérience, de façon à ce que nous pussions immédiatement nous immerger dans ce jeu simple, mais amusant.
+
+## Quatrième œuvre 
+
+### Nom: Océan Rouge
+
+### Installation
+
+<img src=media/ocean-rouge_palmares.jpg alt="Une photo de Océan Rouge." width="450">
+
+> Une photo de Océean Rouge. (Photo: Ahmed El-Mekari)
+
+### Croquis
+
+<img src=media/ocean-rouge_croquis_devant.jpg alt="Un croquis de Océan Rouge, de devant." width="450"><img src=media/ocean-rouge_croquis_cote.jpg alt="Un croquis de Océan Rouge, de côté." width="450">
+
+> Un croquis de Océean Rouge de devant, et un croquis de côté à droite. (Photo: Site web de l'équipe)
+
+### Équipe
+
+-  Émeryk Bélisle
+  
+-  Elie Daher
+  
+-  Ting Yung Lu Terry 
+  
+-  Dana Saavedra-Torrano
+  
+-  Mégane Ranger
+   
+### Mon expérience et mes sentiments
+
+Mon expérience avec cette installation était très positive, j'ai adoré l'aspect coopératif de ce jeu. Les membres de l'équipe étaient très proactifs et ont bien expliqué le concept de cette expérience, de façon à ce que nous pussions immédiatement nous immerger dans ce jeu simple, mais amusant.
