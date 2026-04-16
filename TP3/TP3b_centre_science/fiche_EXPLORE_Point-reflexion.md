@@ -14,21 +14,21 @@
 >Une photo du Centre des sciences de Montréal. (Photo: Site web du Centre des sciences de Montréal.)
 
 ## Type d'exposition
-C'était une exposition temporaire et intérieure.
+C'était une exposition permanente et intérieure.
 
-### Date de ma visite: Jeudi le 17 mars 2026.
+### Date de ma visite: Jeudi le 2 Avril 2026.
 
-## Quand les yeux se croisent par Eldewyn Ledru, Jade Hébert, Félix Lavoie, Patricia Nassif et Manel Yaya.
-<img src=media/quand-yeux_vue_ensemble.jpg alt="Une vue d'ensemble de l'oeuvre." width="450">
+## Installation: Un point de réflexion.
+<img src=media/pointreflexion_vue_ensemble.jpg alt="Une vue d'ensemble de l'installation" width="450">
 
->Une vue d'ensemble de l'œuvre. (Photo: Gaël Gutierrez)
+>Une vue d'ensemble de l'installation. (Photo: Gaël Gutierrez)
 
-### Année de réalisation: 2026.
+### Année de réalisation: 2019.
 
 ##  Texte explicatif de l'installation
-<img src=media/quand-yeux_texte_explicatif.jpg alt="Le texte explicatif de Quand les yeux se croisent." width="450"> 
+<img src=media/quand-yeux_texte_explicatif.jpg alt="Le cartel de Quand les yeux se croisent." width="450"> 
 
->Le texte explicatif de Quand les yeux se croisent. (Photo: Gaël Gutierrez)
+>Le cartel de Quand les yeux se croisent. (Photo: Gaël Gutierrez)
 
 ## Type d'œuvre: Immersif.
 Par intention, cette œuvre est immersive.
@@ -94,8 +94,9 @@ Personnellement, j'ai trouvé que l'aspect visuel de ce projet était très bien
 Le seul aspect que je n'ai pas aimé est l'utilisation de l'IA générative pour les vidéos d'animaux, je pense que l'équipe aurait pu facilement trouver des vidéos sans droit d'auteur et éviter d'utiliser cette technologie qui affecte notre environnement.
 
 ## Références
-https://micheldebroin.org/fr/works/seuils-3/
 
-https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/seuils-micheldebroin
+https://www.centredessciencesdemontreal.com/information-visiteurs
 
-https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/parcours-arsenal-art-contemporain-2025](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
+https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+
+https://www.musees.qc.ca/decouvrir-musees/calendrier-expositions/centre-des-sciences-de-montreal-explore-211/
