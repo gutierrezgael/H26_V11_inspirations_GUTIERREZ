@@ -134,7 +134,7 @@ Lorsque j'ai visionné la bande-annonce de cette expérience avant ma visite, el
 
 ### Croquis
 
-<img src=media/arbre-en-face_croquis.jpg alt="Un croquis de Mission Décollage." width="450">
+<img src=media/mission-decollage_croquis.jpg alt="Un croquis de Mission Décollage." width="450">
 
 > Un croquis de Mission Décollage. (Photo: Site web de l'équipe)
 
