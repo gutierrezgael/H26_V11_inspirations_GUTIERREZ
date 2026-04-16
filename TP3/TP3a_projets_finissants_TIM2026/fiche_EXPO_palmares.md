@@ -102,7 +102,7 @@ J'ai trouvé Océan Rouge très charmant, c'est un jeu très simple, mais amusan
 
 ### Croquis
 
-<img src=media/arbre-en-face_croquis_devant.jpg alt="Un croquis de Arbre en face, de devant." width="450"><img src=media/arbre-en-face_croquis_cote.jpg alt="Un croquis de Arbre en face, de côté." width="450">
+<img src=media/arbre-en-face_croquis_devant.png alt="Un croquis de Arbre en face, de devant." width="450"><img src=media/arbre-en-face_croquis_cote.png alt="Un croquis de Arbre en face, de côté." width="450">
 
 > Un croquis de Arbre en face de devant, et un croquis de côté à droite. (Photo: Site web de l'équipe)
 
