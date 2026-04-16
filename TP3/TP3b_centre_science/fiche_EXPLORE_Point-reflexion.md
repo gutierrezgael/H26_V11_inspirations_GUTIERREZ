@@ -8,7 +8,7 @@
 
 >Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe. (Photo: Gaël Gutierrez)
 
-## Lieu: Collège Montmorency. 475 Boulevard de l'Avenir, Laval. 
+## Lieu: Centre des sciences de Montréal. 2 De La Commune St W, Montreal.
 <img src=media/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
 
 >Une photo de deux élèves. Gaël Gutierrez à gauche et Yoan Visinand à droite. (Photo: Yoan Visinand)
