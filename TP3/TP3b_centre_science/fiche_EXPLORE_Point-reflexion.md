@@ -9,9 +9,9 @@
 >Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe. (Photo: Gaël Gutierrez)
 
 ## Lieu: Centre des sciences de Montréal. 2 De La Commune St W, Montreal.
-<img src="https://github.com/user-attachments/assets/aa98f652-70a5-4b50-8e43-6c08f647481a" alt="Une photo du Centre des sciences de Montréal." width="450">
+<img src=media/centre-des-sciences-de-montreal.jpg alt="Une photo du Centre des sciences de Montréal." width="450">
 
->Une photo du Centre des sciences de Montréal. (Photo: Yoan Visinand)
+>Une photo du Centre des sciences de Montréal. (Photo: Site web du Centre des sciences de Montréal.)
 
 ## Type d'exposition
 C'était une exposition temporaire et intérieure.
