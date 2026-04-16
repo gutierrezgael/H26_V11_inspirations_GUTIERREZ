@@ -9,9 +9,9 @@
 >Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe. (Photo: Gaël Gutierrez)
 
 ## Lieu: Centre des sciences de Montréal. 2 De La Commune St W, Montreal.
-<img src=media/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
+<img src="https://github.com/user-attachments/assets/aa98f652-70a5-4b50-8e43-6c08f647481a" alt="Une photo du Centre des sciences de Montréal." width="450">
 
->Une photo de deux élèves. Gaël Gutierrez à gauche et Yoan Visinand à droite. (Photo: Yoan Visinand)
+>Une photo du Centre des sciences de Montréal. (Photo: Yoan Visinand)
 
 ## Type d'exposition
 C'était une exposition temporaire et intérieure.
