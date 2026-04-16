@@ -4,7 +4,7 @@
 >Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
 
 ## LUMIÈRE
-<img src=media/explore_pancarte_lumiere alt="Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe." width="225">
+<img src=media/explore_pancarte_lumiere.jpg alt="Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe." width="225">
 
 >Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe. (Photo: Gaël Gutierrez)
 
