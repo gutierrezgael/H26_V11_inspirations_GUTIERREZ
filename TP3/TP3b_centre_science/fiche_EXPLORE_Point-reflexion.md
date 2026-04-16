@@ -1,11 +1,12 @@
-# Réseau vivant
-<img src=media/reseau-vivant_affiche.jpg alt="Une photo de l'affiche principale de l'exposition, sur tableau blanc." width="225">
+# EXPLORE
+<img src=media/explore_pancarte.jpg alt="Une photo de l'affiche principale de l'exposition." width="225">
 
->Une photo de l'affiche principale de l'exposition, sur tableau blanc. (Photo: Gaël Gutierrez)
+>Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
 
-<img src=media/reseau-vivant_affiche_projecteur.jpg alt="Une photo de l'affiche principale de l'exposition, sur projecteur." width="225">
+## LUMIÈRE
+<img src=media/explore_pancarte_lumiere alt="Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe." width="225">
 
->Une photo de l'affiche principale de l'exposition, sur projecteur. (Photo: Gaël Gutierrez)
+>Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe. (Photo: Gaël Gutierrez)
 
 ## Lieu: Collège Montmorency. 475 Boulevard de l'Avenir, Laval. 
 <img src=media/reseau-vivant-entree.jpg alt="Une photo de deux élèves. Yoan Visinand à gauche et Gaël Gutierrez à droite." width="450">
@@ -24,7 +25,7 @@ C'était une exposition temporaire et intérieure.
 
 ### Année de réalisation: 2026.
 
-##  Texte explicatif de l'œuvre
+##  Texte explicatif de l'installation
 <img src=media/quand-yeux_texte_explicatif.jpg alt="Le texte explicatif de Quand les yeux se croisent." width="450"> 
 
 >Le texte explicatif de Quand les yeux se croisent. (Photo: Gaël Gutierrez)
