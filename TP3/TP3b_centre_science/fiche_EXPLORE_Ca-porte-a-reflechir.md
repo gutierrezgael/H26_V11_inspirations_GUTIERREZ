@@ -18,7 +18,7 @@ C'était une exposition permanente et intérieure.
 
 ### Date de ma visite: Jeudi le 2 Avril 2026.
 
-## Installation: Un point de réflexion.
+## Installation: Ça porte à réfléchir.
 <img src=media/pointreflexion_vue_ensemble.jpg alt="Une vue d'ensemble de l'installation" width="450">
 
 >Une vue d'ensemble de l'installation. (Photo: Gaël Gutierrez)
@@ -26,9 +26,9 @@ C'était une exposition permanente et intérieure.
 ### Année de réalisation: 2019.
 
 ##  Cartel de l'installation
-<img src=media/pointreflexion_cartel.jpg alt="Le cartel de Un point de réflexion." width="450"> 
+<img src=media/pointreflexion_cartel.jpg alt="Le cartel de Ça porte à réfléchir." width="450"> 
 
->Le cartel de Un point de réflexion. (Photo: Gaël Gutierrez)
+>Le cartel de Ça porte à réfléchir. (Photo: Gaël Gutierrez)
 
 ## Type d'œuvre: Immersif.
 Par intention, cette œuvre est immersive.
