@@ -153,3 +153,19 @@ Lorsque j'ai visionné la bande-annonce de cette expérience avant ma visite, el
 ### Mon expérience et mes sentiments
 
 Personnellement, j'apprécie l'effort qui fut mis dans la présentation visuelle de cette installation. Toutefois, j'ai trouvé que l'aspect interactif était incomplet et fastidieux. Selon moi, ce jeu n'était pas intéressant et semblait plutôt incomplet.
+
+# Références
+
+https://les-chimistes.github.io/symbiose/#/
+
+https://pythons-5.github.io/Terminal/#/
+
+https://deux-intelligence.github.io/deux-neurones/#/
+
+https://mammouths.github.io/projet/#/
+
+https://o-i-g-n-o-n.github.io/Mission-decollage/#/
+
+**Je donne un grand remerciement à Ahmed El-Mekari de m'avoir autorisé à utiliser ses photographies.**
+
+
