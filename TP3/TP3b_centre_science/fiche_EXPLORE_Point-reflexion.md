@@ -25,10 +25,10 @@ C'était une exposition permanente et intérieure.
 
 ### Année de réalisation: 2019.
 
-##  Texte explicatif de l'installation
-<img src=media/quand-yeux_texte_explicatif.jpg alt="Le cartel de Quand les yeux se croisent." width="450"> 
+##  Cartel de l'installation
+<img src=media/pointreflexion_cartel.jpg alt="Le cartel de Un point de réflexion." width="450"> 
 
->Le cartel de Quand les yeux se croisent. (Photo: Gaël Gutierrez)
+>Le cartel de Un point de réflexion. (Photo: Gaël Gutierrez)
 
 ## Type d'œuvre: Immersif.
 Par intention, cette œuvre est immersive.
