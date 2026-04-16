@@ -72,13 +72,39 @@ Mon expérience avec cette installation était très positive, j'ai adoré l'asp
 
 <img src=media/ocean-rouge_palmares.jpg alt="Une photo de Océan Rouge." width="450">
 
-> Une photo de Océean Rouge. (Photo: Ahmed El-Mekari)
+> Une photo de Océan Rouge. (Photo: Ahmed El-Mekari)
 
 ### Croquis
 
 <img src=media/ocean-rouge_croquis_devant.jpg alt="Un croquis de Océan Rouge, de devant." width="450"><img src=media/ocean-rouge_croquis_cote.jpg alt="Un croquis de Océan Rouge, de côté." width="450">
 
-> Un croquis de Océean Rouge de devant, et un croquis de côté à droite. (Photo: Site web de l'équipe)
+> Un croquis de Océan Rouge de devant, et un croquis de côté à droite. (Photo: Site web de l'équipe)
+
+### Équipe
+
+-  Amira Tounekti
+  
+-  Kristy Moussaly
+   
+### Mon expérience et mes sentiments
+
+J'ai trouvé Océan Rouge très charmant, c'est un jeu très simple, mais amusant et bien stylisé. Je trouve aussi que le fait que ce projet fut réalisé par une équipe de seulement 2 personnes est très impressionnant et le fait que l'intelligence artificielle ne fut pas utilisée m'inspire grandement. Les efforts de ces deux personnes me prouvent qu'il est toujours possible de réaliser des projets de qualité professionnelle sans à avoir à se pencher sur cet outil génératif.
+
+## Cinquième œuvre 
+
+### Nom: Arbre en face
+
+### Installation
+
+<img src=media/arbre-en-face_palmares.jpg alt="Une photo de Arbre en face." width="450">
+
+> Une photo de Arbre en face. (Photo: Ahmed El-Mekari)
+
+### Croquis
+
+<img src=media/arbre-en-face_croquis_devant.jpg alt="Un croquis de Arbre en face, de devant." width="450"><img src=media/arbre-en-face_croquis_cote.jpg alt="Un croquis de Arbre en face, de côté." width="450">
+
+> Un croquis de Arbre en face de devant, et un croquis de côté à droite. (Photo: Site web de l'équipe)
 
 ### Équipe
 
