@@ -35,9 +35,9 @@ Cette œuvre est immersive.
 ### Fonction du dispositif: Apprendre le fonctionnement de la lumière et des miroirs aux enfants à travers une installation immersive.
 
 ## Mise en espace
-<img src=media/quand-yeux_croquis.jpg alt="Un croquis de l'installation." width="250">
+<img src=media/pointreflexion_croquis.png alt="Un croquis de l'installation." width="250">
 
-Un croquis de l'installation. (Photo: Jade Hébert)
+Un croquis de l'installation. (Photo: Gaël Gutierrez)
 
 ## Composantes et techniques
 
