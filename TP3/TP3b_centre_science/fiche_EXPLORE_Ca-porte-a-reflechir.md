@@ -35,7 +35,7 @@ Cette œuvre est immersive.
 ### Fonction du dispositif: Apprendre le fonctionnement de la lumière et des miroirs aux enfants à travers une installation immersive.
 
 ## Mise en espace
-<img src=media/pointreflexion_croquis.png alt="Un croquis de l'installation." width="600">
+<img src=media/pointreflexion_croquis.png alt="Un croquis de l'installation." width="1250">
 
 Un croquis de l'installation. (Photo: Gaël Gutierrez)
 
