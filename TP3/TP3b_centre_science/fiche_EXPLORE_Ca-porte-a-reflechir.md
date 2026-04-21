@@ -47,29 +47,7 @@ Cette œuvre est immersive.
 
 > Une vue de l'écran de l'installation. (Photo: Gaël Gutierrez)
 
-### Raspberry Pi
 
-<img src=media/quand-yeux_raspberrypi.jpg alt="Une vue d'un des quatre Raspberry Pi, qui affiche les images capturées par les caméras." width="250"><img src=media/quand-yeux_raspberrypi_exemple.jpg alt="Une vue d'un des quatre Raspberry Pi, qui affiche les images capturées par les caméras, alors qu'il est en action." width="250">
-
->Deux vues d'un des quatre Raspberry Pi, qui affiche les images capturées par les caméras. À gauche alors qu'il n'est pas actif, et à droite alors qu'il est actif.  (Photo: Gaël Gutierrez)
-
-### Télévision
-
-<img src=media/quand-yeux_television.jpg alt="Une vue d'une des quatre télévisions qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras." width="250">
-
->Une vue d'une des quatre télévisions qui présentent les vidéos de yeux d'animaux combinées avec celles qui sont prisent sur place à l'aide des caméras. (Photo: Gaël Gutierrez)
-
-### Haut-parleur
-
-<img src=media/quand-yeux_haut_parleur.jpg alt="Une vue d'un des quatre hauts-parleurs de cette installation." width="250">
-
->Une vue d'un des quatre haut parleurs de cette installation. (Photo: Gaël Gutierrez)
-
-### Lumière fluorescente
-
-<img src=media/quand-yeux_lumiere.jpg alt="Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation." width="250">
-
->Une vue rapprochée d'une des lumières fluorescentes qui illuminent cette installation. (Photo: Gaël Gutierrez)
 
 ## Éléments nécessaires à la mise en exposition
 
