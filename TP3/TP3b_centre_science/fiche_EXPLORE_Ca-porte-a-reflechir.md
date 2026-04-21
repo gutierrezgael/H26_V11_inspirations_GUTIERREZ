@@ -43,9 +43,9 @@ Cette œuvre est immersive.
 
 ### Écran
 
-<img src=media/pointreflexion_ecran.jpg alt="Une vue de l'écran de l'installation." width="250">
+<img src=media/pointreflexion_ecran.jpg alt="Une vue de l'écran de l'installation." width="250"><img src=media/pointreflexion_ecran_pres.jpg alt="Une vue plus rapprochée de l'écran de l'installation." width="250">
 
-> Une vue de l'écran de l'installation. (Photo: Gaël Gutierrez)
+> Une vue de l'écran de l'installation, suivi d'une vue plus rapprochée. (Photo: Gaël Gutierrez)
 
 
 
