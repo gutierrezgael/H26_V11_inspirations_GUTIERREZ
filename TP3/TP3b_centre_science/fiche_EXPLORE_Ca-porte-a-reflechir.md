@@ -49,9 +49,9 @@ Cette œuvre est immersive.
 
 ### Miroirs
 
-<img src=media/pointreflexion_interieur_droite.jpg alt="Une vue du miroir à droite de l'installation." width="250"><img src=media/pointreflexion_interieur_gauche.jpg alt="Une vue du miroir à gauche de l'installation." width="250">
+<img src=media/pointreflexion_interieur_droite.jpg alt="Une vue du miroir à gauche de l'installation." width="250"><img src=media/pointreflexion_interieur_gauche.jpg alt="Une vue du miroir à droite de l'installation." width="250">
 
-> Une vue de l'écran de l'installation, suivi d'une vue plus rapprochée. (Photo: Gaël Gutierrez)
+> Une vue des miroirs de l'installation à gauche, puis à droite. (Photo: Gaël Gutierrez)
 
 ## Éléments nécessaires à la mise en exposition
 
