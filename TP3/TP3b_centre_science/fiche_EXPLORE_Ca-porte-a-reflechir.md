@@ -31,8 +31,8 @@ C'était une exposition permanente et intérieure.
 >Le cartel de Ça porte à réfléchir. (Photo: Gaël Gutierrez)
 
 ## Type d'œuvre: Immersif.
-Par intention, cette œuvre est immersive.
-### Fonction du dispositif: Représenter le lien entre les animaux et les humains à travers le regard.
+Cette œuvre est immersive.
+### Fonction du dispositif: Apprendre le fonctionnement de la lumière et des miroirs aux enfants à travers une installation immersive.
 
 ## Mise en espace
 <img src=media/quand-yeux_croquis.jpg alt="Un croquis de l'installation." width="250">
