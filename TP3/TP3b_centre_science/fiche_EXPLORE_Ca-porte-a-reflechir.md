@@ -53,6 +53,12 @@ Cette œuvre est immersive.
 
 > Une vue des miroirs de l'installation à gauche, puis à droite. (Photo: Gaël Gutierrez)
 
+### Fenêtre
+
+<img src=media/pointreflexion_fenetre.jpg alt="Une vue du miroir à gauche de l'installation." width="250">
+
+> Une vue des miroirs de l'installation à gauche, puis à droite. (Photo: Gaël Gutierrez)
+
 ## Éléments nécessaires à la mise en exposition
 
 ### Alimentation
