@@ -1,17 +1,17 @@
 # EXPLORE
 <img src=media/explore_pancarte.jpg alt="Une photo de l'affiche principale de l'exposition." width="225">
 
->Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
+> Une photo de l'affiche principale de l'exposition. (Photo: Gaël Gutierrez)
 
 ## LUMIÈRE
 <img src=media/explore_pancarte_lumiere.jpg alt="Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe." width="225">
 
->Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe. (Photo: Gaël Gutierrez)
+> Une photo de la section de l'exposition dans laquelle l'installation que j'ai choisi se situe. (Photo: Gaël Gutierrez)
 
 ## Lieu: Centre des sciences de Montréal. 2 De La Commune St W, Montreal.
 <img src=media/centre-des-sciences-de-montreal.jpg alt="Une photo du Centre des sciences de Montréal." width="450">
 
->Une photo du Centre des sciences de Montréal. (Photo: Site web du Centre des sciences de Montréal.)
+> Une photo du Centre des sciences de Montréal. (Photo: Site web du Centre des sciences de Montréal.)
 
 ## Type d'exposition
 C'était une exposition permanente et intérieure.
@@ -21,14 +21,14 @@ C'était une exposition permanente et intérieure.
 ## Installation: Ça porte à réfléchir.
 <img src=media/pointreflexion_vue_ensemble.jpg alt="Une vue d'ensemble de l'installation" width="450">
 
->Une vue d'ensemble de l'installation. (Photo: Gaël Gutierrez)
+> Une vue d'ensemble de l'installation. (Photo: Gaël Gutierrez)
 
 ### Année de réalisation: 2019.
 
 ##  Cartel de l'installation
 <img src=media/pointreflexion_cartel.jpg alt="Le cartel de Ça porte à réfléchir." width="450"> 
 
->Le cartel de Ça porte à réfléchir. (Photo: Gaël Gutierrez)
+> Le cartel de Ça porte à réfléchir. (Photo: Gaël Gutierrez)
 
 ## Type d'œuvre: Immersif.
 Cette œuvre est immersive.
@@ -37,15 +37,15 @@ Cette œuvre est immersive.
 ## Mise en espace
 <img src=media/pointreflexion_croquis.png alt="Un croquis de l'installation." width="1250">
 
-Un croquis de l'installation. (Photo: Gaël Gutierrez)
+> Un croquis de l'installation. (Photo: Gaël Gutierrez)
 
 ## Composantes et techniques
 
-### Caméra
+### Écran
 
-<img src=media/quand-yeux_camera.jpg alt="Une vue rapprochée d'une des deux caméras qui enregistrent  des images nécessaires à l'installation." width="250">
+<img src=media/pointreflexion_ecran alt="Une vue de l'écran de l'installation." width="250">
 
->Une vue rapprochée d'une des deux caméras qui enregristrent des images nécessaire à l'installation. (Photo: Gaël Gutierrez)
+> Une vue de l'écran de l'installation. (Photo: Gaël Gutierrez)
 
 ### Raspberry Pi
 
