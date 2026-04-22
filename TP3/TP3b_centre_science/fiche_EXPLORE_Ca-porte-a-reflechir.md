@@ -71,7 +71,6 @@ Cette œuvre est immersive.
 
 > Une vue de la signalisation ludique qui propose un jeu aux visiteurs. (Photo: Gaël Gutierrez)
 
-
 ## Éléments nécessaires à la mise en exposition
 
 ### Alimentation
