@@ -59,6 +59,19 @@ Cette œuvre est immersive.
 
 > Une vue d'une des fenêtre de l'installation. (Photo: Gaël Gutierrez)
 
+### Signalisation
+
+<img src=media/pointreflexion_signalisation_chemin.jpg alt="Une vue de la signalisation qui mène vers installation." width="250">
+
+> Une vue de la signalisation qui mène vers installation. (Photo: Gaël Gutierrez)
+
+### Signalisation ludique
+
+<img src=media/pointreflexion_signalisation_jeu.jpg alt="Une vue de la signalisation ludique qui propose un jeu aux visiteurs." width="250">
+
+> Une vue de la signalisation ludique qui propose un jeu aux visiteurs. (Photo: Gaël Gutierrez)
+
+
 ## Éléments nécessaires à la mise en exposition
 
 ### Alimentation
