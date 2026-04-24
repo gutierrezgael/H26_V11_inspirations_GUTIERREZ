@@ -71,6 +71,12 @@ Cette œuvre est immersive.
 
 > Une vue de la signalisation ludique qui propose un jeu aux visiteurs. (Photo: Gaël Gutierrez)
 
+### Salle electronique
+
+<img src=media/pointreflexion_salle_electronique.jpg alt="Une vue de la salle électronique." width="250">
+
+> Une vue de la salle électronique. (Photo: Gaël Gutierrez)
+
 ## Éléments nécessaires à la mise en exposition
 
 ### Alimentation
