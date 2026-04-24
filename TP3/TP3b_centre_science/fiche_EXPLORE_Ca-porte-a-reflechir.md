@@ -79,11 +79,23 @@ Cette œuvre est immersive.
 
 ## Éléments nécessaires à la mise en exposition
 
-### Alimentation
+### Structure
 
-<img src=media/quand-yeux_alimentation.jpg alt="Vue de l'alimentation de cette installation." width="250"><img src=media/quand-yeux_alimentation_sans_deco.jpg alt="Vue de l'alimentation de cette installation, sans les décorations." width="250">
+<img src=media/pointreflexion_structure.jpg alt="Vue de la structure de cette installation." width="250">
 
->Deux vues de l'alimentation de cette installation, à gauche avec les décorations, et à droite sans les décorations. (Photo: Gaël Gutierrez)
+> Vue de la structure de cette installation. (Photo: Gaël Gutierrez)
+
+### Ventilation
+
+<img src=media/pointreflexion_ventilation.jpg alt="Vue de la ventilation au dessus de l'installation." width="250">
+
+> Vue de la ventilation au dessus de l'installation. (Photo: Gaël Gutierrez)
+
+### Rampe
+
+<img src=media/pointreflexion_rampe.jpg alt="Vue de la rampe qui permet d'entrer dans l'installation." width="250">
+
+> Vue de la ventilation au dessus de l'installation. (Photo: Gaël Gutierrez)
 
 ## Expérience vécue
 
