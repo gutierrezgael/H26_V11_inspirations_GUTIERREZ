@@ -99,17 +99,16 @@ Cette œuvre est immersive.
 
 ## Expérience vécue
 
-La première fois que j'ai essayé cette installation, j'étais plutôt confus; je ne comprenais pas la fonction de ce dispositif. Mais, après m'être installé sur la zone indiquée, j'ai été agréablement surpris par l'affichage de mon visage sur l'un des écrans. J'ai trouvé que les effets stylistiques étaient très intéressants, et en combinaison avec les décorations très bien réalisées, j'ai trouvé que cette installation était probablement la meilleure.
+Lorsque je suis entré dans la salle de l'exposition EXPLORE, j'ai tout de suite remarqué cette installation. Personellement, j'adore les kaleidoscope, du coup l'idée de cette installation m'as beaucoup attrayé. J'ai choisit de marcher lentement et d'essayer d'admirer les jeux de miroirs d'une façon réfléchie. Ma conclusion est bien simple: cette installation est tout simplement magnifique visuellement.
 
 
 ## Ce qui m'a plu ou qui m'a donné des idées
 
-Personnellement, j'ai trouvé que l'aspect visuel de ce projet était très bien réalisé. Il est facilement constatable que l'équipe a planifié en détail leur vision artistique pour ce projet.
-
+*Ça porte a réfléchir* m'a donné envie d'utiliser des miroirs dans mes futurs projets d'installation dans ma formation d'intégration multimédia. Je pense que ceux-ci peuvent créer des jeux de lumière et de distortion intéressants et subversif.
 
 ## Aspect que je ferais autrement
 
-Le seul aspect que je n'ai pas aimé est l'utilisation de l'IA générative pour les vidéos d'animaux, je pense que l'équipe aurait pu facilement trouver des vidéos sans droit d'auteur et éviter d'utiliser cette technologie qui affecte notre environnement.
+Bien que je comprenne que cette installation est faite pour les enfants, j'ai trouvé que la structure était un peu claustrophobique. Personellement, j'aurais construit cette installation de façon à ce qu'elle soit plus grande afin d'accomoder le plus grand nombre de personnes.
 
 ## Références
 
