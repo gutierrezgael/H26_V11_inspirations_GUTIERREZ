@@ -11,11 +11,11 @@ D'abord, monsieur Boucher a rapidement survolé son parcours scolaire. Notamment
 * Éclairage/DMX, optique
 * Audio, MIDI, mixage sonore
 * Électricité
-* 
+
 En bref, il nous a appris que le métier de technicien multimédia appel à la créativité de l'individu pour harmoniser des appareils ensemble. De plus, il nous a enseigné qu'il faut toujours viser un certain compromis écono-technique afin de satisfaire et maintenir ses clients.
 
 ### Le vieux wagon de métro
-L'his
+L'installation qui a été discuté et qui à le plus susciter mon intérêt est l'exposition d'un vieux wagon de métro de la STM. Monsieur Boucher nous a racconté qu'auparavant, l'exposition du wagon était toujours déserte, car il n'y avait rien d'intéressant à propos de celle-ci. L,
 
 
 
